@@ -6,6 +6,7 @@ Unit testing, as the name implies, is about testing individual units of code. Un
 
 Karma is a JavaScript command line tool that can be used to spawn a web server which loads your application's source code and executes your tests. You can configure Karma to run against a number of browsers, which is useful for being confident that your application works on all browsers you need to support. Karma is executed on the command line and will display the results of your tests on the command line once they have run in the browser.
 
+<<<<<<< HEAD
 ## [Jasmine](http://jasmine.github.io/1.3/introduction.html)
 
 ```
@@ -50,3 +51,16 @@ describe('PasswordController', function() {
 
 
 
+=======
+## [Jasmine](http://jasmine.github.io/1.3/introduction.html)
+
+```
+describe('sorting the list of users', function() {
+  it('sorts in descending order by default', function() {
+    var users = ['jack', 'igor', 'jeff'];
+    var sorted = sortUsers(users);
+    expect(sorted).toEqual(['jeff', 'jack', 'igor']);
+  });
+});
+```
+>>>>>>> 283bc1bfee91570c3d67c4c23b0cc1ad60e99ba1
