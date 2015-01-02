@@ -9,11 +9,11 @@ Karma is a JavaScript command line tool that can be used to spawn a web server w
 ## [Jasmine](http://jasmine.github.io/1.3/introduction.html)
 
 ```javascript
-	describe('sorting the list of users', function() {
-	  it('sorts in descending order by default', function() {
-	    var users = ['jack', 'igor', 'jeff'];
-	    var sorted = sortUsers(users);
-	    expect(sorted).toEqual(['jeff', 'jack', 'igor']);
-	  });
-	});
+describe('sorting the list of users', function() {
+  it('sorts in descending order by default', function() {
+    var users = ['jack', 'igor', 'jeff'];
+    var sorted = sortUsers(users);
+    expect(sorted).toEqual(['jeff', 'jack', 'igor']);
+  });
+});
 ```
