@@ -8,12 +8,41 @@ Karma is a JavaScript command line tool that can be used to spawn a web server w
 
 ## [Jasmine](http://jasmine.github.io/1.3/introduction.html)
 
-```javascript
-	describe('sorting the list of users', function() {
-	  it('sorts in descending order by default', function() {
-	    var users = ['jack', 'igor', 'jeff'];
-	    var sorted = sortUsers(users);
-	    expect(sorted).toEqual(['jeff', 'jack', 'igor']);
-	  });
-	});
+```
+describe('sorting the list of users', function() {
+  it('sorts in descending order by default', function() {
+    var users = ['jack', 'igor', 'jeff'];
+    var sorted = sortUsers(users);
+    expect(sorted).toEqual(['jeff', 'jack', 'igor']);
+  });
+});
+```
+
+## angular-mocks
+
+Angular also provides the ngMock module, which provides mocking for your tests. This is used to inject and mock Angular services within unit tests. In addition, it is able to extend other modules so they are synchronous. Having tests synchronous keeps them much cleaner and easier to work with. One of the most useful parts of ngMock is $httpBackend, which lets us mock XHR requests in tests, and return sample data instead.
+
+
+# Testing a Controller
+```
+describe('PasswordController', function() {
+  beforeEach(module('app'));
+
+  var $controller;
+
+  beforeEach(inject(function(_$controller_){
+    // The injector unwraps the underscores (_) from around the parameter names when matching
+    $controller = _$controller_;
+  }));
+
+  describe('$scope.grade', function() {
+    it('sets the strength to "strong" if the password length is >8 chars', function() {
+      var $scope = {};
+      var controller = $controller('PasswordController', { $scope: $scope });
+      $scope.password = 'longerthaneightchars';
+      $scope.grade();
+      expect($scope.strength).toEqual('strong');
+    });
+  });
+});
 ```
