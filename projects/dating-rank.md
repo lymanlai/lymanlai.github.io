@@ -6,6 +6,7 @@ already use 2 days
 2. card showcase
 3. use http://makeappicon.com/ to generate icons
 4. use avoscloud as backend service
+5. use [this](https://github.com/bartaz/impress.js/) to make the dating intro
 
 Feature List:
   user/
