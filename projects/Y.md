@@ -9,3 +9,4 @@ idea list
 Tech Stack
   Protractor as E2E test: http://angular.github.io/protractor/
   FlatUI: http://designmodo.github.io/Flat-UI/docs/components.html
+
