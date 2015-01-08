@@ -28,3 +28,5 @@ describe('TODO list', function() {
   });
 });
 ```
+
+E2E testing works by testing full areas of the application by running a test through its entire stack of operations against a special HTTP server from the start to the end (hence end to end).
