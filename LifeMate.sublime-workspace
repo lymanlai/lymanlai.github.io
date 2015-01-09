@@ -519,78 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "logs/201501/08.md",
-			"settings":
-			{
-				"buffer_size": 1662,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "tasks/2015/01/fitness.md",
-			"settings":
-			{
-				"buffer_size": 192,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "projects/Y.md",
-			"settings":
-			{
-				"buffer_size": 310,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "tasks/2015/01/make-Y-online/14.md",
-			"settings":
-			{
-				"buffer_size": 159,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "posts/201501/karma.md",
-			"settings":
-			{
-				"buffer_size": 1256,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "posts/201501/unit-testing.md",
-			"settings":
-			{
-				"buffer_size": 2308,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "posts/201501/e2e-testing.md",
-			"settings":
-			{
-				"buffer_size": 1459,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "tasks/2015/01/ToDoList.md",
-			"settings":
-			{
-				"buffer_size": 424,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "posts/201501/Protractor.md",
-			"settings":
-			{
-				"buffer_size": 1039,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/JSHint/JSHint.sublime-build",
 	"command_palette":
@@ -652,15 +580,45 @@
 	},
 	"file_history":
 	[
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/09.md",
+		"/Users/lyman/2015/lymanlai.github.io/oh-wow/2015/01.md",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/supervisor.md",
+		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/make-Y-online/14.md",
+		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/fitness.md",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/Protractor.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/Y.md",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/unit-testing.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/08.md",
+		"/Users/lyman/.zshrc",
+		"/Users/lyman/.oh-my-zsh/plugins/per-directory-history/per-directory-history.plugin.zsh",
+		"/Users/lyman/.oh-my-zsh/plugins/per-directory-history/README.md",
+		"/Users/lyman/.oh-my-zsh/plugins/per-directory-history/per-directory-history.",
+		"/Users/lyman/.oh-my-zsh/plugins/pass/_pass",
+		"/Users/lyman/.oh-my-zsh/plugins/screen/screen.plugin.zsh",
+		"/Users/lyman/.oh-my-zsh/plugins/web-search/web-search.plugin.zsh",
+		"/Users/lyman/.oh-my-zsh/plugins/supervisor/supervisor.plugin.zsh",
+		"/Users/lyman/.oh-my-zsh/plugins/supervisor/_supervisord",
+		"/Users/lyman/.oh-my-zsh/plugins/supervisor/_supervisorctl",
+		"/Users/lyman/.oh-my-zsh/plugins/redis-cli/_redis-cli",
+		"/Users/lyman/.oh-my-zsh/plugins/osx/osx.plugin.zsh",
+		"/Users/lyman/.oh-my-zsh/plugins/npm/npm.plugin.zsh",
+		"/Users/lyman/.oh-my-zsh/plugins/last-working-dir/last-working-dir.plugin.zsh",
+		"/Users/lyman/.oh-my-zsh/plugins/vi-mode/vi-mode.plugin.zsh",
+		"/Users/lyman/.oh-my-zsh/plugins/git-flow/git-flow.plugin.zsh",
+		"/Users/lyman/.oh-my-zsh/plugins/sublime/sublime.plugin.zsh",
+		"/Users/lyman/.oh-my-zsh/plugins/autojump/autojump.plugin.zsh",
+		"/Users/lyman/.oh-my-zsh/plugins/rand-quote/rand-quote.plugin.zsh",
+		"/Users/lyman/.oh-my-zsh/plugins/lol/lol.plugin.zsh",
+		"/Users/lyman/.oh-my-zsh/plugins/emoji-clock/emoji-clock.plugin.zsh",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/oh-my-zsh.md",
+		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/ToDoList.md",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/e2e-testing.md",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/karma.md",
 		"/Users/lyman/2015/Y/angularjs/test/spec/spec.js",
 		"/Users/lyman/2015/lymanlai.github.io/posts/201501/angular-seed.md",
 		"/Users/lyman/2015/lymanlai.github.io/posts/201501/sublime-text.md",
 		"/Users/lyman/2015/lymanlai.github.io/projects/dating-rank.md",
-		"/Users/lyman/2015/lymanlai.github.io/oh-wow/2015/01.md",
-		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/ToDoList.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201501/06-07.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/Y.md",
-		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/fitness.md",
 		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/dating-rank/07.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/EveryDay.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201501/03/unit-testing.md",
@@ -670,7 +628,6 @@
 		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/simple-date-ios-app-design/readme.md",
 		"/Users/lyman/2015/lymanlai.github.io/projects/XYZ-project.md",
 		"/Users/lyman/2015/dating-rank/www/templates/tab-account.html",
-		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/make-Y-online/14.md",
 		"/Users/lyman/2015/dating-rank/www/js/app.js",
 		"/Users/lyman/2015/dating-rank/www/index.html",
 		"/Users/lyman/2015/dating-rank/www/templates/tabs.html",
@@ -726,7 +683,6 @@
 		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/User/insert_date.sublime-settings",
 		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/InsertDate/insert_date.sublime-settings",
 		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/InsertDate/README.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/karma.md",
 		"/Users/lyman/2015/Y/angularjs/Gruntfile.js",
 		"/Users/lyman/2015/Y/angularjs/karma.conf.js",
 		"/Users/lyman/2015/Y/angularjs/karma-e2e.conf.js",
@@ -738,7 +694,6 @@
 		"/Users/lyman/2015/Y/restify/api/user/activeAccount.js",
 		"/Users/lyman/2015/Y/angularjs/package.json",
 		"/Users/lyman/2015/lymanlai.github.io/posts/201501/spf13-vim.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/Protractor.md",
 		"/Users/lyman/.spf13-vim-3/README.markdown",
 		"/Users/lyman/2015/Y/angularjs/app/scripts/user/login.js",
 		"/Users/lyman/2015/lymanlai.github.io/posts/201501/shell.md",
@@ -752,34 +707,7 @@
 		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/make-Y-online/readme.md",
 		"/Users/lyman/2015/Y/README.md",
 		"/Users/lyman/2015/Y/1.html",
-		"/Users/lyman/2015/angular-seed/app/view1/view1.js",
-		"/Users/lyman/2015/angular-seed/app/app.js",
-		"/Users/lyman/2015/Y/restify/api/user/index.js",
-		"/Users/lyman/2015/Y/angularjs/app/scripts/user/views/signup.html",
-		"/Users/lyman/2015/Y/angularjs/app/scripts/user/signup.js",
-		"/Users/lyman/2015/Y/angularjs/app/scripts/yh.js",
-		"/Users/lyman/2015/Y/restify/helper/Database.js",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201501/03.md",
-		"/Users/lyman/2015/Y/restify/helper/Yaha.js",
-		"/Users/lyman/2015/Y/restify/helper/ToDo.js",
-		"/Users/lyman/2015/Y/restify/helper/Love.js",
-		"/Users/lyman/2015/Y/restify/helper/Jobs.js",
-		"/Users/lyman/2015/Y/restify/helper/Email.js",
-		"/Users/lyman/2015/Y/restify/package.json",
-		"/Users/lyman/2015/Y/restify/node_modules/validator/README.md",
-		"/Users/lyman/2015/Y/restify/node_modules/validator/validator.js",
-		"/Users/lyman/2015/Y/restify/helper/AutoLoader.js",
-		"/Users/lyman/2015/Y/restify/index.js",
-		"/Users/lyman/2015/Y/restify/helper/Debug.js",
-		"/Users/lyman/2015/Y/restify/nodemon.json",
-		"/Users/lyman/2015/Y/restify/Config.js",
-		"/Users/lyman/2015/Y/restify/node_modules/debug/index.js",
-		"/Users/lyman/2015/Y/restify/node_modules/debug/debug.js",
-		"/Users/lyman/2015/Y/restify/node_modules/debug/lib/debug.js",
-		"/Users/lyman/2015/Y/restify/node_modules/debug/example/app.js",
-		"/Users/lyman/2015/Y/restify/node_modules/debug/Readme.md",
-		"/Users/lyman/2015/Y/docs/Database.md",
-		"/Users/lyman/2015/Y/docs/Restify.md"
+		"/Users/lyman/2015/angular-seed/app/view1/view1.js"
 	],
 	"find":
 	{
@@ -923,6 +851,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"pass",
+			"plugin",
+			"plugins",
 			"Sketch",
 			"leancloud",
 			"do",
@@ -1047,10 +978,7 @@
 			"description",
 			"id=\"description",
 			"click this link",
-			"active",
-			"click the link",
-			"register_user",
-			"Hi, %username%! You hav"
+			"active"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1072,247 +1000,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "logs/201501/08.md",
-					"settings":
-					{
-						"buffer_size": 1662,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								222,
-								222
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 128.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "tasks/2015/01/fitness.md",
-					"settings":
-					{
-						"buffer_size": 192,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								192,
-								192
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "projects/Y.md",
-					"settings":
-					{
-						"buffer_size": 310,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								310,
-								310
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "tasks/2015/01/make-Y-online/14.md",
-					"settings":
-					{
-						"buffer_size": 159,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								126,
-								126
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "posts/201501/karma.md",
-					"settings":
-					{
-						"buffer_size": 1256,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								308,
-								308
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "posts/201501/unit-testing.md",
-					"settings":
-					{
-						"buffer_size": 2308,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2308,
-								2308
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 590.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "posts/201501/e2e-testing.md",
-					"settings":
-					{
-						"buffer_size": 1459,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1459,
-								1459
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 65.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "tasks/2015/01/ToDoList.md",
-					"settings":
-					{
-						"buffer_size": 424,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								424,
-								424
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "posts/201501/Protractor.md",
-					"settings":
-					{
-						"buffer_size": 1039,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								459,
-								459
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
