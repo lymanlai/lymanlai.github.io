@@ -5,3 +5,4 @@
 5. [study swift](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/chapter2/01_The_Basics.html) [swfit tips](http://swifter.tips/currying/)
 6. [watch] http://yearofmoo-articles.github.io/angularjs-testing-article/app/#!/videos
 7. [read] http://blog.techorganic.com/about/
+8. [research] http://next.36kr.com/posts
