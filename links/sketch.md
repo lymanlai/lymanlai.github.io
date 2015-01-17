@@ -2,6 +2,8 @@
 
 #https://startupsthisishowdesignworks.com/
 
+http://www.sketchappsources.com/plugins-for-sketch.html
+
 http://sketchtips.tumblr.com/
 http://blog.mengto.com/photoshop-users-how-to-switch-to-sketch/
 
@@ -13,3 +15,6 @@ Icons Free:
 
 background patterns:
   http://subtlepatterns.com/
+
+seems pretty good article about work-flow on sketch
+https://medium.com/@tilllur/managing-sketch-for-ios-dev-8046d2eedc61
