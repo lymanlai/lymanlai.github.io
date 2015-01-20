@@ -519,6 +519,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "logs/201501/20.md",
+			"settings":
+			{
+				"buffer_size": 472,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "projects/design-code/Design From Scratch.md",
+			"settings":
+			{
+				"buffer_size": 269,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/JSHint/JSHint.sublime-build",
 	"command_palette":
@@ -580,13 +596,56 @@
 	},
 	"file_history":
 	[
+		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Sketch 3 Techniques.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Learn Sketch 3.md",
+		"/Users/lyman/2015/lymanlai.github.io/links/sketch.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/19.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Design Inspiration.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/Design Principles.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/Promoting your work.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/UI Sounds.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/UI Icons.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Learn Animations.md",
+		"/Users/lyman/2015/lymanlai.github.io/links/app-design-dev.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/Learn Typography.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/Learn Colors.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Learn iOS Design.md",
+		"/Applications/Utilities/AirPort Utility.app/Contents/Resources/Acknowledgements.txt",
+		"/Users/lyman/2015/lymanlai.github.io/projects/iOS-Human-Interface-Guidelines/UI-Design-Basics/Designing-for-iOS.md",
+		"/Users/lyman/2015/lymanlai.github.io/links/go.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/18.md",
+		"/Users/lyman/2015/lymanlai.github.io/habits/Fitness.md",
+		"/Users/lyman/2015/lymanlai.github.io/habits/DoSomeCoding.md",
+		"/Users/lyman/2015/lymanlai.github.io/habits/DoSomeDesign.md",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/ios-human-interface-guidelines.md",
+		"/Users/lyman/2015/lymanlai.github.io/links/swift.md",
+		"/Users/lyman/2015/LifeMate/Batch-master/SVG/add.svg",
+		"/Users/lyman/2015/LifeMate/Batch-master/README.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/17.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/15.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/16.md",
+		"/Users/lyman/2015/lymanlai.github.io/links/20150103.md",
+		"/Users/lyman/Desktop/baidu-cloud/百度云同步盘/Civilization IV/密码.txt",
+		"/Users/lyman/2015/lymanlai.github.io/projects/XYZ-project.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/translate.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/Y.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/idea-demo.md",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/shell.md",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/supervisor.md",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/How To Wireframe An iPhone App In Sketch.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/14.md",
+		"/Users/lyman/2015/lymanlai.github.io/habits/FitnessEveryDay.md",
+		"/Users/lyman/2015/lymanlai.github.io/habits/RemoveBad.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/13.md",
+		"/Users/lyman/2015/lymanlai.github.io/readme.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/life-mate.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/EveryDay.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/12.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201501/09.md",
 		"/Users/lyman/2015/lymanlai.github.io/oh-wow/2015/01.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/supervisor.md",
 		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/make-Y-online/14.md",
 		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/fitness.md",
 		"/Users/lyman/2015/lymanlai.github.io/posts/201501/Protractor.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/Y.md",
 		"/Users/lyman/2015/lymanlai.github.io/posts/201501/unit-testing.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201501/08.md",
 		"/Users/lyman/.zshrc",
@@ -620,13 +679,11 @@
 		"/Users/lyman/2015/lymanlai.github.io/projects/dating-rank.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201501/06-07.md",
 		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/dating-rank/07.md",
-		"/Users/lyman/2015/lymanlai.github.io/logs/EveryDay.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201501/03/unit-testing.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201501/03/e2e-testing.md",
 		"/Users/lyman/2015/lymanlai.github.io/posts/201501/03.md",
 		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/copy-XYZ-weibo/12.md",
 		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/simple-date-ios-app-design/readme.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/XYZ-project.md",
 		"/Users/lyman/2015/dating-rank/www/templates/tab-account.html",
 		"/Users/lyman/2015/dating-rank/www/js/app.js",
 		"/Users/lyman/2015/dating-rank/www/index.html",
@@ -639,7 +696,6 @@
 		"/Users/lyman/2015/dating-rank/bower.json",
 		"/Users/lyman/2015/dating-rank/config.xml",
 		"/Users/lyman/2015/dating-rank/platforms/ios/cordova/console.log",
-		"/Users/lyman/2015/lymanlai.github.io/links/20150103.md",
 		"/Users/lyman/2015/dating-rank/plugins/ios.json",
 		"/Users/lyman/2015/dating-rank/plugins/org.apache.cordova.statusbar/doc/index.md",
 		"/Users/lyman/2015/dating-rank/plugins/org.apache.cordova.statusbar/doc/zh/index.md",
@@ -667,47 +723,7 @@
 		"/Users/lyman/2015/lymanlai.github.io/logs/201501/06.md",
 		"/Users/lyman/2015/angular-seed/app/index.html",
 		"/Users/lyman/2015/Flat-UI-master/dist/index.html",
-		"/Users/lyman/2015/Flat-UI-master/bower.json",
-		"/Users/lyman/2015/angular-seed/package.json",
-		"/Users/lyman/2015/angular-seed/.travis.yml",
-		"/Users/lyman/2015/angular-seed/node_modules/karma/package.json",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/lyman/2015/Y/angularjs/app/index.html",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/SublimeGit/Default.sublime-keymap",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/XYZ-weibo-copy.md",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/InsertDate/Default (OSX).sublime-keymap",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/User/insert_date.sublime-settings",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/InsertDate/insert_date.sublime-settings",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/InsertDate/README.md",
-		"/Users/lyman/2015/Y/angularjs/Gruntfile.js",
-		"/Users/lyman/2015/Y/angularjs/karma.conf.js",
-		"/Users/lyman/2015/Y/angularjs/karma-e2e.conf.js",
-		"/Users/lyman/2015/angular-seed/my.karma.conf.js",
-		"/Users/lyman/2015/angular-seed/app/components/version/interpolate-filter_test.js",
-		"/Users/lyman/2015/Y/restify/helper/User.js",
-		"/Users/lyman/2015/Y/angularjs/app/scripts/user/main.js",
-		"/Users/lyman/2015/Y/restify/api/user/login.js",
-		"/Users/lyman/2015/Y/restify/api/user/activeAccount.js",
-		"/Users/lyman/2015/Y/angularjs/package.json",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/spf13-vim.md",
-		"/Users/lyman/.spf13-vim-3/README.markdown",
-		"/Users/lyman/2015/Y/angularjs/app/scripts/user/login.js",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/shell.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/iterm2.md",
-		"/Users/lyman/2015/lymanlai.github.io/README.md",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201501/04.md",
-		"/Users/lyman/2015/lymanlai.github.io/tasks/201501/03.task",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201501/05.md",
-		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01.task",
-		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/copy-XYZ-weibo/readme.md",
-		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/make-Y-online/readme.md",
-		"/Users/lyman/2015/Y/README.md",
-		"/Users/lyman/2015/Y/1.html",
-		"/Users/lyman/2015/angular-seed/app/view1/view1.js"
+		"/Users/lyman/2015/Flat-UI-master/bower.json"
 	],
 	"find":
 	{
@@ -851,6 +867,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"download('",
+			"\">Download</a></span>",
+			"download('",
+			"download('/cloud/",
+			"Download",
+			"download",
+			"Download",
+			"download",
+			"Download",
+			"download",
+			"Download",
+			"download",
+			"url",
 			"pass",
 			"plugin",
 			"plugins",
@@ -965,20 +994,7 @@
 			"canUp",
 			"warning",
 			"tr",
-			"typeFilter.status",
-			"typeFilter",
-			"span",
-			"subTitleForm",
-			"textBtnForm",
-			"subTitle",
-			"item.subTitle",
-			"backspace",
-			"country",
-			"profile-description",
-			"description",
-			"id=\"description",
-			"click this link",
-			"active"
+			"typeFilter.status"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1000,8 +1016,61 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "logs/201501/20.md",
+					"settings":
+					{
+						"buffer_size": 472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								472,
+								472
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "projects/design-code/Design From Scratch.md",
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
