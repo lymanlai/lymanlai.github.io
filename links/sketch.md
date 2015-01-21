@@ -22,3 +22,5 @@ seems pretty good article about work-flow on sketch
 https://medium.com/@tilllur/managing-sketch-for-ios-dev-8046d2eedc61
 
 free fonts: http://www.fontex.org/free.html
+
+http://www.sketchtips.info/
