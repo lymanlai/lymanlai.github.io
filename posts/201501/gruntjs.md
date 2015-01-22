@@ -256,3 +256,43 @@ Before setting up Grunt ensure that your npm is up-to-date by running npm update
     ```
 
 #[Sample Gruntfile](http://gruntjs.com/sample-gruntfile)
+Below is my configuration object for the "concat" task.
+```
+  concat: {
+    options: {
+      // define a string to put between each file in the concatenated output
+      separator: ';'
+    },
+    dist: {
+      // the files to concatenate
+      src: ['src/**/*.js'],
+      // the location of the resulting JS file
+      dest: 'dist/<%= pkg.name %>.js'
+    }
+  }
+```
+Now lets configure the uglify plugin, which minifies our JavaScript:
+```
+  uglify: {
+    options: {
+      // the banner is inserted at the top of the output
+      banner: '/*! <%= pkg.name %> <%= grunt.template.today("dd-mm-yyyy") %> */\n'
+    },
+    dist: {
+      files: {
+        'dist/<%= pkg.name %>.min.js': ['<%= concat.dist.dest %>']
+      }
+    }
+  }
+```
+This tells uglify to create a file within dist/ that contains the result of minifying the JavaScript files. Here I use <%= concat.dist.dest %> so uglify will minify the file that the concat task produces.
+
+The QUnit plugin is really simple to set up. You just need to give it the location of the test runner files, which are the HTML files QUnit runs on.
+Finally we have the watch plugin:
+```
+  watch: {
+    files: ['<%= jshint.files %>'],
+    tasks: ['jshint', 'qunit']
+  }
+```
+This can be run on the command line with grunt watch. When it detects any of the files specified have changed (here, I just use the same files I told JSHint to check), it will run the tasks you specify, in the order they appear.
