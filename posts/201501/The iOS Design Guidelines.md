@@ -106,3 +106,10 @@ If the app icon you are using has a white background, a 1 pixel gray border stro
 #Controls
 1. BUTTONS
 2. PICKERS
+3. SEGMENT CONTROLS
+4. SLIDERS
+5. STEPPER
+6. SWITCH
+7. KEYBOARDS
+#Further Reading and Resources
+
