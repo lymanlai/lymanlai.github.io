@@ -84,3 +84,25 @@ If the app icon you are using has a white background, a 1 pixel gray border stro
 #Iconography
 #Bar Button Icons
 #Activity View Icons
+#Commonly used design elements
+#Status Bar
+#Navigation Bar
+#Toolbar
+#Search Bar
+#Tab Bar
+#Table View
+1. PLAIN
+2. GROUPED
+3. DEFAULT
+4. WITH SUBTITLE
+5. WITH VALUE
+#Modals, Popovers and Alerts
+1. ACTIVITY VIEW
+2. ACTIONS
+3. ALERTS
+4. EDIT MENU
+5. POPOVER
+6. MODALS
+#Controls
+1. BUTTONS
+2. PICKERS
