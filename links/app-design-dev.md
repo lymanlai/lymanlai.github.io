@@ -6,3 +6,6 @@ https://designcode.io
 
 ppt && keynote replacment tool
 https://github.com/bartaz/impress.js
+
+
+Designer books: http://hao.uisdc.com/book/
