@@ -29,3 +29,8 @@ http://www.sketchtips.info/
 
 
 Good Article: http://www.sketchs.cn/article/detail/226.html
+
+http://webdesign.tutsplus.com/categories/sketch
+https://medium.com/about-codecademy/horror-vacui-1af263f068bb
+https://medium.com/about-codecademy/reimagining-codecademy-com-1ebd994e2c08
+http://www.sketchs.cn/tutorials/detail/201.html
