@@ -1,5 +1,13 @@
 Y Project
 
+===Log
+[2015-01-24 14:46:25] 001,002,005 online and can running now
+
+
+
+
+================================================================================
+
 idea list
 
 * http://goalsome.vipsinaapp.com/ some kind like this, I have though about this idea some years ago! I will use Y framework to make it better!
