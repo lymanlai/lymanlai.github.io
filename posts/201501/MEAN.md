@@ -52,10 +52,157 @@ There are two types of packages:
     3. full CRUD is implemented on the server and client
 2. Files structure
   1. Server
-    1. config
-    2. controllers
-    3. models
-    4. routes
-    5. views
+    Server
+    -- config
+    -- controllers
+    -- models
+    -- routes
+    -- views
+  2. Client
+    public
+    -- assets
+    -- controllers
+    -- config
+    -- services
+    -- views
+3. Registering a Package
+```
+// Example of registering the MyPackage
+MyPackage.register(function(app, auth, database) {
+
+});
+```
+MEAN has 3 pre registered dependencies. app which makes the express app available auth which has some basic authentication functions and database which contains the mongoose database connection.
+4. Dependency Injection
+```
+// Example of registering the tokens package
+MyPackage.register(function(app, auth, database, Tokens) {
+
+  //I can make use of the tokens within my module
+   MyPackage.someExampleFunction('some paramater');
+
+  //I can override functions
+  MyPackage.someExampleFunction = function(param) {
+    //my custom logic goes here
+  };
+});
+```
+5. Angular Modules and Dependencies
+```
+// Example of adding an angular dependency of the ngDragDrop to the
+MyPackage.angularDependencies(['ngDragDrop']);
+```
+6. Assets and Aggregation
+```
+//Adding jquery to the mean project
+MyPackage.aggregateAsset('js','jquery.min.js');
+
+//Adding another library - global by default is false
+MyPackage.aggregateAsset('js','jquery.min.js', {global:true});
+
+//Adding some css to the mean project
+MyPackage.aggregateAsset('css','default.css');
+```
+7. Settings Object
+```
+MyPackage.settings({'someSetting':'some value'},function (err, settings) {
+    //you will receive the settings object on success
+});
+
+// Another save settings example this time with no callback
+// This writes over the last settings.
+MyPackage.settings({'anotherSettings':'some value'});
+
+// Get settings. Retrieves latest saved settings
+MyPackage.settings(function (err, settings) {
+  //you now have the settings object
+});
+```
+8. Express Routes
+Example from the server/routes/myPackage.js
+```
+// The Package is past automatically as first parameter
+module.exports = function(MyPackage, app, auth, database) {
+
+  //example route
+  app.get('/myPackage/example/anyone', function (req,res,next) {
+    res.send('Anyone can access this');
+  });
+
+};
+```
+9. Angular Routes
+The angular routes are defined in public/routes/myPackage.js. Just like the latest version of mean, the packages use the $stateProvider
+```
+$stateProvider
+  .state('myPackage example page', {
+    url: '/myPackage/example',
+    templateUrl: 'myPackage/views/index.html'
+  });
+```
+10. Menu System
+Below is an example how to add a link to the main menu from app.js
+```
+//We are adding a link to the main menu for all authenticated users
+MyPackage.menus.add({
+  title: "myPackage example page",
+  link: "myPackage example page",
+  roles: ["authenticated"],
+  menu: "main"
+});
+```
+11. Html View Rendering
+Below is an example rendering some simple html
+```
+app.get('/myPackage/example/render', function (req,res,next) {
+  MyPackage.render('index', {packageName:'myPackage'}, function (err, html) {
+    //Rendering a view from the Package server/views
+    res.send(html);
+  });
+});
+```
+12. Overriding the default layouts
+```
+MyPackage.register(function(system, app) {
+  app.set('views', __dirname + '/server/views');
+});
+```
+Please note that the package must depend on System to ensure it is evaluated after System and can thus override the views folder
+13. Overriding views
+```
+angular.module('mean.mycustompackage', ['mean.system'])
+  .config(['$viewPathProvider', function($viewPathProvider) {
+    $viewPathProvider.override('system/views/index.html', 'mycustompackage/views/myhomepage.html');
+  }]);
+```
+14. Creating your own package
+mean package <packageName>
+15. Deleting a package
+mean uninstall myPackage
+16. Contributing your package
+```
+mean register // register to the mean network (see below)
+cd packages/custom/pkgNName>
+mean publish
+```
+#MEAN NETWORK
+##Network User management
+mean register
+mean whoami
+#CONFIG
+To run with a different environment, just specify NODE_ENV as you call grunt:
+$ NODE_ENV=test grunt
+$ NODE_ENV=test node server
+$ npm test
+#STAYING UP TO DATE
+git pull upstream master
+npm install
+To maintain your own public or private repository, add your repository as remote. See here for information on adding an existing project to GitHub.
+git remote add origin <remote repository URL>
+git push -u origin master
+#HOSTING MEAN
+
+
+
 
 
