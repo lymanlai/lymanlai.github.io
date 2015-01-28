@@ -281,5 +281,3 @@ function mainController($scope, $http) {
   Install the application: npm install
   Start the server: node server.js
   View in your browser at http://localhost:8080
-
-

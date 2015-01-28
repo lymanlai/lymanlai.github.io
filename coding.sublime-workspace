@@ -4,12 +4,20 @@
 		"selected_items":
 		[
 			[
-				"autocom",
-				"Autocomplete"
+				"rs",
+				"rsyncHelper"
 			],
 			[
 				"email",
-				"email_invalid"
+				"email_not_exist"
+			],
+			[
+				"resu",
+				"result_zero"
+			],
+			[
+				"autocom",
+				"Autocomplete"
 			],
 			[
 				"theUs",
@@ -284,10 +292,6 @@
 				"generated_keys"
 			],
 			[
-				"resu",
-				"result"
-			],
-			[
 				"jobD",
 				"jobData"
 			],
@@ -510,15 +514,27 @@
 			[
 				"tic",
 				"ticketNumber"
-			],
-			[
-				"ti",
-				"ticketOperation"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/lyman/2015/meanAppWithGulp/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 4688,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/lyman/2015/meanAppWithGulp/server.js",
+			"settings":
+			{
+				"buffer_size": 1342,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/JSHint/JSHint.sublime-build",
 	"command_palette":
@@ -584,8 +600,94 @@
 	},
 	"file_history":
 	[
-		"/Users/lyman/2015/lymanlai.github.io/LifeMate.sublime-project",
+		"/Users/lyman/2015/lymanlai.github.io/coding.sublime-project",
+		"/Users/lyman/2015/life-todo/setup.md",
+		"/Users/lyman/2015/life-todo/server.js",
+		"/Users/lyman/2015/life-todo/ToDo",
+		"/Users/lyman/2015/Y/restify/Config.js",
+		"/Users/lyman/2015/Y/restify/setup.md",
+		"/Users/lyman/2015/Y/restify/helper/Server.js",
+		"/Users/lyman/2015/Y/restify/index.js",
+		"/Users/lyman/2015/Y/restify/nginx.conf",
+		"/Users/lyman/2015/life-todo/nginx.conf",
+		"/Users/lyman/2015/Y/restify/tools.md",
+		"/Users/lyman/2015/life-todo/.rsync-exclude-list",
+		"/Users/lyman/2015/mean/todo/public/core.js",
+		"/Users/lyman/2015/mean/todo/public/index.html",
+		"/Users/lyman/2015/mean/todo/server.js",
+		"/Users/lyman/2015/mean/todo/setup.md",
+		"/Users/lyman/2015/mean/todo/.rsync-exclude-list",
+		"/Users/lyman/2015/Y/restify/.rsync-exclude-list",
+		"/Users/lyman/2015/mean/todo/package.json",
+		"/Users/lyman/myCloud/TimeCapsule/cf/_doc/微官网地址.txt",
+		"/Users/lyman/2015/nw-demo/package.json",
+		"/Users/lyman/2015/nw-demo/index.html",
+		"/Users/lyman/2014/v2.api.yaha.me/Config.js",
+		"/Users/lyman/2014/v2.api.yaha.me/v2.api.yaha.me.conf",
+		"/Users/lyman/2014/v2.api.yaha.me/tools.md",
+		"/Users/lyman/2014/v2.api.yaha.me/tree.md",
+		"/Users/lyman/2015/LifeMate/v1/ref.md",
+		"/Users/lyman/2015/life-mate/README.md",
+		"/Users/lyman/2015/LifeMate/bootflat.github.io-master/README.markdown",
+		"/Users/lyman/2015/meanAppWithGulp/packages/articles/public/controllers/articles.js",
+		"/Users/lyman/2015/meanAppWithGulp/packages/articles/public/services/articles.js",
+		"/Users/lyman/2015/meanAppWithGulp/packages/articles/public/routes/articles.js",
+		"/Users/lyman/2015/meanAppWithGulp/packages/articles/server/controllers/articles.js",
+		"/Users/lyman/2015/meanAppWithGulp/packages/articles/public/tests/articles.spec.js",
+		"/Users/lyman/2015/meanAppWithGulp/packages/articles/server/models/article.js",
+		"/Users/lyman/2015/meanAppWithGulp/packages/articles/server/tests/articles.js",
+		"/Users/lyman/2015/meanAppWithGulp/packages/articles/server/routes/articles.js",
+		"/Users/lyman/2015/meanAppWithGulp/packages/articles/app.js",
+		"/Users/lyman/2015/meanAppWithGulp/packages/articles/package.json",
+		"/Users/lyman/2015/meanAppWithGulp/packages/articles/README.md",
+		"/Users/lyman/2015/meanAppWithGulp/packages/theme/server/views/index.html",
+		"/Users/lyman/2015/meanAppWithGulp/README.md",
+		"/Users/lyman/2015/meanAppWithGulp/gulpfile.js",
+		"/Users/lyman/2015/meanAppWithGulp/Gruntfile.js",
+		"/Users/lyman/2015/meanAppWithGulp/config/assets.json",
+		"/Users/lyman/2015/dating-rank/www/index.html",
+		"/Users/lyman/2015/Y/restify/helper/ToDo.js",
+		"/Users/lyman/2015/Y/restify/api/todo_v1/list.js",
+		"/Users/lyman/2015/Y/restify/api/todo_v1/add.js",
+		"/Users/lyman/2015/Y/restify/helper/Yaha.js",
+		"/Users/lyman/2015/Y/restify/helper/Jobs.js",
+		"/Users/lyman/2015/Y/restify/gulpfile.js",
+		"/Users/lyman/2015/Y/restify/checkList.md",
+		"/Users/lyman/2015/Y/angularjs/app/scripts/jobs/list.js",
+		"/Users/lyman/2015/Y/angularjs/app/scripts/jobs/views/list.html",
+		"/Users/lyman/2015/Y/restify/api/jobs/getCityList.js",
+		"/Users/lyman/2015/Y/restify/helper/Util.js",
+		"/Users/lyman/2015/Y/restify/api/moduleInit.js",
+		"/Users/lyman/2015/Y/angularjs/app/scripts/jobs/main.js",
+		"/Users/lyman/.ssh/config",
+		"/Users/lyman/2015/Y/restify/package.json",
+		"/Users/lyman/2015/Y/restify/helper/User.js",
+		"/Users/lyman/2015/Y/restify/helper/Love.js",
 		"/Users/lyman/2015/Y/angularjs/app/index.html",
+		"/Users/lyman/2015/Y/angularjs/app/scripts/user/login.js",
+		"/Users/lyman/2015/Y/angularjs/app/scripts/yh.js",
+		"/Users/lyman/2015/Y/angularjs/app/scripts/love/hangout.item.js",
+		"/Users/lyman/dropbox-code/Dropbox/api-server/.rsync-exclude-list",
+		"/Users/lyman/2015/Y/restify/helper/Database.js",
+		"/Users/lyman/2015/Y/angularjs/app/scripts/boot.js",
+		"/Users/lyman/2015/Y/angularjs/app/scripts/user/main.js",
+		"/Users/lyman/2015/Y/restify/helper/Session.js",
+		"/Users/lyman/2015/Y/restify/node_modules/moment/README.md",
+		"/Users/lyman/2015/Y/restify/tree.md",
+		"/Users/lyman/2015/Y/restify/helper/AutoLoader.js",
+		"/Users/lyman/2015/Y/restify/api/feedback.js",
+		"/Users/lyman/2015/Y/restify/node_modules/restify/lib/index.js",
+		"/Users/lyman/2015/Y/restify/node_modules/restify/lib/server.js",
+		"/Users/lyman/2015/Y/restify/node_modules/restify/lib/plugins/date.js",
+		"/Users/lyman/2015/Y/angularjs/package.json",
+		"/Users/lyman/2015/Y/angularjs/Gruntfile.js",
+		"/Users/lyman/2015/Y/angularjs/dist/.htaccess",
+		"/Users/lyman/2015/Y/angularjs/.ftppass",
+		"/Users/lyman/2015/Y/angularjs/dist/scripts/20733f78.vendors.js",
+		"/Users/lyman/2015/Y/angularjs/dist/scripts/yaha/views/about.html",
+		"/Users/lyman/2015/Y/angularjs/app/scripts/yaha/main.js",
+		"/Users/lyman/2015/Y/angularjs/component.json",
+		"/Users/lyman/2015/lymanlai.github.io/LifeMate.sublime-project",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201501/23.md",
 		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/Open-Include/messages/install.txt",
 		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/Open-Include/readme.md",
@@ -594,8 +696,6 @@
 		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/Open-Include/Default (OSX).sublime-keymap",
 		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/Open Folder/README.md",
-		"/Users/lyman/2015/Y/angularjs/Gruntfile.js",
-		"/Users/lyman/2015/Y/angularjs/package.json",
 		"/Users/lyman/2015/Y/angularjs/dist/scripts/jobs/views/itemUser-skills.html",
 		"/Users/lyman/2015/tmp/grunt-usemin-example/gruntfile.js",
 		"/Users/lyman/2015/lymanlai.github.io/posts/201501/iterm2.md",
@@ -606,8 +706,6 @@
 		"/Users/lyman/2015/tmp/grunt-usemin-example/dist/index.html",
 		"/Users/lyman/2015/tmp/grunt-usemin-example/dist/assets/js/optimized.js",
 		"/Users/lyman/2015/tmp/usemin-test/package.json",
-		"/Users/lyman/2015/meanAppWithGulp/gulpfile.js",
-		"/Users/lyman/2015/meanAppWithGulp/Gruntfile.js",
 		"/Users/lyman/2015/tmp/usemin-test/node_modules/grunt-usemin/tasks/usemin.js",
 		"/Users/lyman/2015/tmp/usemin-test/app/index.html",
 		"/Users/lyman/2015/lymanlai.github.io/posts/201501/The iOS Design Guidelines.md",
@@ -629,89 +727,7 @@
 		"/Users/lyman/2015/tmp/usemin-test/angularjs/b.js",
 		"/Users/lyman/2015/tmp/usemin-test/angularjs/b.css",
 		"/Users/lyman/2015/Y/angularjs/node_modules/grunt-contrib-imagemin/package.json",
-		"/Users/lyman/2015/Y/angularjs/node_modules/grunt-contrib-imagemin/docs/imagemin-overview.md",
-		"/Users/lyman/2015/Y/angularjs/node_modules/grunt-usemin/README.md",
-		"/Users/lyman/2015/Y/angularjs/node_modules/grunt-usemin/lib/fileprocessor.js",
-		"/Users/lyman/Downloads/8d2e6d06d4c47485.zip.txt",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201501/22.md",
-		"/Users/lyman/2015/Y/angularjs/node_modules/grunt-contrib-htmlmin/docs/htmlmin-examples.md",
-		"/Users/lyman/2015/Y/angularjs/node_modules/grunt-contrib-htmlmin/docs/htmlmin-options.md",
-		"/Users/lyman/2015/Y/angularjs/node_modules/grunt-contrib-htmlmin/docs/htmlmin-overview.md",
-		"/Users/lyman/2015/Y/angularjs/component.json",
-		"/Users/lyman/2015/Y/angularjs/node_modules/grunt-contrib-livereload/lib/utils.js",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201501/list.md",
-		"/Users/lyman/2015/tmp/grunt-test/Gruntfile.js",
-		"/Users/lyman/2015/tmp/grunt-test/package.json",
-		"/Users/lyman/2015/tmp/grunt-test/y.js",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/oh-my-zsh.md",
-		"/Users/lyman/2015/lymanlai.github.io/logs/EveryDay.md",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201501/21.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/dating-rank.md",
-		"/Users/lyman/2015/dating-rank/www/js/app.js",
-		"/Users/lyman/2015/lc-dating-rank/leanchat-ios/README.md",
-		"/Users/lyman/2015/lc-dating-rank/leanchat-android/src/com/avoscloud/chat/ui/view/PlayButton.java",
-		"/Users/lyman/2015/lc-dating-rank/leanchat-cloudcode/cloud/muser.js",
-		"/Users/lyman/2015/lc-dating-rank/leanchat-cloudcode/cloud/msign.js",
-		"/Users/lyman/2015/lc-dating-rank/leanchat-cloudcode/config/global.json",
-		"/Users/lyman/2015/lc-dating-rank/leanchat-cloudcode/cloud/app.js",
-		"/Users/lyman/2015/lc-dating-rank/leanchat-cloudcode/cloud/common.js",
-		"/Users/lyman/2015/lc-dating-rank/leanchat-cloudcode/cloud/madd.js",
-		"/Users/lyman/2015/lc-dating-rank/leanchat-cloudcode/cloud/main.js",
-		"/Users/lyman/2015/lc-dating-rank/leanchat-cloudcode/cloud/mchat.js",
-		"/Users/lyman/2015/lc-dating-rank/leanchat-cloudcode/cloud/mgroup.js",
-		"/Users/lyman/2015/lc-dating-rank/leanchat-cloudcode/cloud/mlog.js",
-		"/Users/lyman/2015/lc-dating-rank/leanchat-cloudcode/cloud/mqiniu.js",
-		"/Users/lyman/2015/lc-dating-rank/leanchat-cloudcode/cloud/views/hello.ejs",
-		"/Users/lyman/2015/lc-dating-rank/leanchat-cloudcode/cloud/views/500.ejs",
-		"/Users/lyman/2015/dating-rank/www/index.html",
-		"/Users/lyman/2015/lymanlai.github.io/links/app-design-dev.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/Managing Sketch for iOS Dev.md",
-		"/Users/lyman/2015/tmp/todo/www/index.html",
-		"/Users/lyman/2015/tmp/todo/www/js/app.js",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/ionicframework-guide.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/UI Icons.md",
-		"/Users/lyman/2015/LifeMate/v1/ref.md",
-		"/Users/lyman/2015/lymanlai.github.io/links/unity3d.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/karma.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/Supercharge your Workflow in Sketch.md",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201501/20.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/Build an iOS App.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/angular-seed.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Prototype in Flinto.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Designing Screens.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/Design From Scratch.md",
-		"/Users/lyman/2015/LifeMate/v1/downloadVerificationForm.docx",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Sketch 3 Techniques.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Learn Sketch 3.md",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201501/19.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Design Inspiration.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/Design Principles.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/Promoting your work.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/UI Sounds.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Learn Animations.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/Learn Typography.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/Learn Colors.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Learn iOS Design.md",
-		"/Applications/Utilities/AirPort Utility.app/Contents/Resources/Acknowledgements.txt",
-		"/Users/lyman/2015/lymanlai.github.io/projects/iOS-Human-Interface-Guidelines/UI-Design-Basics/Designing-for-iOS.md",
-		"/Users/lyman/2015/lymanlai.github.io/links/go.md",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201501/18.md",
-		"/Users/lyman/2015/lymanlai.github.io/habits/Fitness.md",
-		"/Users/lyman/2015/lymanlai.github.io/habits/DoSomeCoding.md",
-		"/Users/lyman/2015/lymanlai.github.io/habits/DoSomeDesign.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/ios-human-interface-guidelines.md",
-		"/Users/lyman/2015/LifeMate/Batch-master/SVG/add.svg",
-		"/Users/lyman/2015/LifeMate/Batch-master/README.md",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201501/17.md",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201501/15.md",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201501/16.md",
-		"/Users/lyman/2015/lymanlai.github.io/links/20150103.md",
-		"/Users/lyman/Desktop/baidu-cloud/百度云同步盘/Civilization IV/密码.txt",
-		"/Users/lyman/2015/lymanlai.github.io/projects/translate.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/Y.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/idea-demo.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/shell.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/supervisor.md"
+		"/Users/lyman/2015/Y/angularjs/node_modules/grunt-contrib-imagemin/docs/imagemin-overview.md"
 	],
 	"find":
 	{
@@ -719,9 +735,11 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 99.0,
 		"where_history":
 		[
+			".",
+			".,/Users/lyman/2015/Y/restify/api",
 			".",
 			"/Users/lyman/2015/Y/restify/helper",
 			"/data/Dropbox-Multiple/code/Dropbox/yaha.me/app/scripts/yaha",
@@ -855,6 +873,29 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"rate",
+			"socket_nodes",
+			"8080",
+			"!results.next()",
+			"return_changes",
+			"return_vals",
+			"city",
+			"guilp",
+			"!result.next()",
+			"secu",
+			"peopleImg",
+			"avatarUrl",
+			"avatar",
+			"STATIC_HOST",
+			"avatar.yaha",
+			"avatar",
+			"imagemagick",
+			"sid",
+			"generate",
+			"data",
+			"returnChanges",
+			"ftp",
+			"ugli",
 			"htmlmin",
 			"ugl",
 			"generated",
@@ -959,30 +1000,7 @@
 			"super+d",
 			"edit",
 			"multi",
-			"funcName",
-			"for",
-			".add",
-			"signup",
-			"laijinyue",
-			"zero_row",
-			"hasNext",
-			"sssss",
-			"check",
-			"args",
-			"fileName",
-			"folder",
-			"validator",
-			"login",
-			"push",
-			"html5Mode",
-			"location",
-			"host",
-			"server",
-			"});",
-			"dynamic_chain",
-			"forwarded_port",
-			"vm.provision",
-			"provision"
+			"funcName"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1004,8 +1022,65 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/lyman/2015/meanAppWithGulp/gulpfile.js",
+					"settings":
+					{
+						"buffer_size": 4688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4179,
+								4179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2336.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/lyman/2015/meanAppWithGulp/server.js",
+					"settings":
+					{
+						"buffer_size": 1342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								829,
+								829
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1629,6 +1704,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 350.0,
+	"side_bar_width": 321.0,
 	"status_bar_visible": true
 }
