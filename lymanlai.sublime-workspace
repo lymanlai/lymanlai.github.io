@@ -519,14 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "logs/201501/27.md",
-			"settings":
-			{
-				"buffer_size": 555,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/JSHint/JSHint.sublime-build",
 	"command_palette":
@@ -592,13 +584,20 @@
 	},
 	"file_history":
 	[
-		"/Users/lyman/2015/lymanlai.github.io/links/sketch.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/28.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/life-mate.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/TechStack.md",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/todo-app-with-mean.md",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/Flux-ToDoMVC.md",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/Building With Gulp.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201501/26.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/27.md",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/gruntjs.md",
+		"/Users/lyman/2015/lymanlai.github.io/links/sketch.md",
 		"/Users/lyman/2015/react-0.12.2/src/helloworld.js",
 		"/Users/lyman/2015/react-0.12.2/helloworld.html",
 		"/Users/lyman/2015/Y/angularjs/app/scripts/yh.js",
 		"/Users/lyman/2015/react-0.12.2/README.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/todo-app-with-mean.md",
 		"/Users/lyman/2015/mean/todo/server.js",
 		"/Users/lyman/2015/mean/todo/package.json",
 		"/Users/lyman/2015/lymanlai.github.io/logs/EveryDay.md",
@@ -664,7 +663,6 @@
 		"/Users/lyman/2015/lymanlai.github.io/posts/201501/11 tips for prototyping with Sketch.md",
 		"/Users/lyman/2015/tmp/usemin-test/angularjs/index.html",
 		"/Users/lyman/2015/tmp/usemin-test/angularjs/Gruntfile.js",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/gruntjs.md",
 		"/Users/lyman/2015/tmp/usemin-test/angularjs/a.css",
 		"/Users/lyman/2015/tmp/usemin-test/angularjs/a.js",
 		"/Users/lyman/2015/tmp/usemin-test/angularjs/b.js",
@@ -713,13 +711,7 @@
 		"/Users/lyman/2015/lymanlai.github.io/posts/201501/Supercharge your Workflow in Sketch.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201501/20.md",
 		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/Build an iOS App.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/angular-seed.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Prototype in Flinto.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Designing Screens.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/Design From Scratch.md",
-		"/Users/lyman/2015/LifeMate/v1/downloadVerificationForm.docx",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Sketch 3 Techniques.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/ Learn Sketch 3.md"
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/angular-seed.md"
 	],
 	"find":
 	{
@@ -1012,35 +1004,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "logs/201501/27.md",
-					"settings":
-					{
-						"buffer_size": 555,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								534,
-								534
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
