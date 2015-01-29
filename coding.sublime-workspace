@@ -519,22 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/lyman/2015/meanAppWithGulp/gulpfile.js",
-			"settings":
-			{
-				"buffer_size": 4688,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/lyman/2015/meanAppWithGulp/server.js",
-			"settings":
-			{
-				"buffer_size": 1342,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/JSHint/JSHint.sublime-build",
 	"command_palette":
@@ -600,24 +584,53 @@
 	},
 	"file_history":
 	[
-		"/Users/lyman/2015/lymanlai.github.io/coding.sublime-project",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/29.md",
 		"/Users/lyman/2015/life-todo/setup.md",
+		"/Users/lyman/2015/life-todo/.rsync-exclude-list",
+		"/Users/lyman/2015/life-todo/Config.js",
+		"/Users/lyman/2015/life-todo/.gitignore",
 		"/Users/lyman/2015/life-todo/server.js",
-		"/Users/lyman/2015/life-todo/ToDo",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/git-flow.md",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/grunt-usemin.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/28.md",
+		"/Users/lyman/2015/life-todo/Config.sample.js",
+		"/Users/lyman/2015/life-todo/public/index.html",
+		"/Users/lyman/2015/life-todo/public/style.css",
+		"/Users/lyman/2015/life-todo/bower_components/semantic-ui-icon/icon.css",
+		"/Users/lyman/2015/life-todo/public/core.js",
+		"/Users/lyman/2015/Y/restify/index.js",
 		"/Users/lyman/2015/Y/restify/Config.js",
+		"/Users/lyman/2015/life-todo/Semantic-UI-1.8.1/examples/homepage.css",
+		"/Users/lyman/2015/life-todo/Semantic-UI-1.8.1/examples/homepage.js",
+		"/Users/lyman/2015/lymanlai.github.io/projects/TechStack.md",
+		"/Users/lyman/2015/lymanlai.github.io/TechStack.md",
+		"/Users/lyman/2015/life-todo/Semantic-UI-1.8.1/README.md",
+		"/Users/lyman/2015/life-todo/Semantic-UI-1.8.1/examples/homepage.html",
+		"/Users/lyman/2015/lymanlai.github.io/projects/life-mate.md",
+		"/Users/lyman/2015/life-todo/Semantic-UI-1.8.1/examples/feed.html",
+		"/Users/lyman/2015/life-todo/Semantic-UI-1.8.1/gulpfile.js",
+		"/Users/lyman/2015/life-todo/package.json",
+		"/Users/lyman/2015/life-todo/nginx.conf",
+		"/Users/lyman/2015/life-todo/gulpfile.js",
+		"/Users/lyman/2015/life-todo/nodemon.json",
+		"/Users/lyman/2015/life-todo/app/index.html",
+		"/Users/lyman/2015/Y/restify/nodemon.json",
+		"/Users/lyman/2015/Y/restify/nginx.conf",
+		"/Users/lyman/2015/Y/restify/.rsync-exclude-list",
+		"/Users/lyman/2015/life-todo/npm-debug.log",
+		"/Users/lyman/2015/life-todo/build/core.js",
+		"/Users/lyman/2015/meanAppWithGulp/gulpfile.js",
+		"/Users/lyman/2015/meanAppWithGulp/server.js",
+		"/Users/lyman/2015/lymanlai.github.io/coding.sublime-project",
+		"/Users/lyman/2015/life-todo/ToDo",
 		"/Users/lyman/2015/Y/restify/setup.md",
 		"/Users/lyman/2015/Y/restify/helper/Server.js",
-		"/Users/lyman/2015/Y/restify/index.js",
-		"/Users/lyman/2015/Y/restify/nginx.conf",
-		"/Users/lyman/2015/life-todo/nginx.conf",
 		"/Users/lyman/2015/Y/restify/tools.md",
-		"/Users/lyman/2015/life-todo/.rsync-exclude-list",
 		"/Users/lyman/2015/mean/todo/public/core.js",
 		"/Users/lyman/2015/mean/todo/public/index.html",
 		"/Users/lyman/2015/mean/todo/server.js",
 		"/Users/lyman/2015/mean/todo/setup.md",
 		"/Users/lyman/2015/mean/todo/.rsync-exclude-list",
-		"/Users/lyman/2015/Y/restify/.rsync-exclude-list",
 		"/Users/lyman/2015/mean/todo/package.json",
 		"/Users/lyman/myCloud/TimeCapsule/cf/_doc/微官网地址.txt",
 		"/Users/lyman/2015/nw-demo/package.json",
@@ -642,7 +655,6 @@
 		"/Users/lyman/2015/meanAppWithGulp/packages/articles/README.md",
 		"/Users/lyman/2015/meanAppWithGulp/packages/theme/server/views/index.html",
 		"/Users/lyman/2015/meanAppWithGulp/README.md",
-		"/Users/lyman/2015/meanAppWithGulp/gulpfile.js",
 		"/Users/lyman/2015/meanAppWithGulp/Gruntfile.js",
 		"/Users/lyman/2015/meanAppWithGulp/config/assets.json",
 		"/Users/lyman/2015/dating-rank/www/index.html",
@@ -699,35 +711,7 @@
 		"/Users/lyman/2015/Y/angularjs/dist/scripts/jobs/views/itemUser-skills.html",
 		"/Users/lyman/2015/tmp/grunt-usemin-example/gruntfile.js",
 		"/Users/lyman/2015/lymanlai.github.io/posts/201501/iterm2.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/My app design workflow.md",
-		"/Users/lyman/2015/tmp/usemin-test/Gruntfile.js",
-		"/Users/lyman/2015/tmp/grunt-usemin-example/package.json",
-		"/Users/lyman/2015/Y/angularjs/dist/index.html",
-		"/Users/lyman/2015/tmp/grunt-usemin-example/dist/index.html",
-		"/Users/lyman/2015/tmp/grunt-usemin-example/dist/assets/js/optimized.js",
-		"/Users/lyman/2015/tmp/usemin-test/package.json",
-		"/Users/lyman/2015/tmp/usemin-test/node_modules/grunt-usemin/tasks/usemin.js",
-		"/Users/lyman/2015/tmp/usemin-test/app/index.html",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/The iOS Design Guidelines.md",
-		"/Users/lyman/2015/Y/angularjs/node_modules/grunt-usemin/tasks/usemin.js",
-		"/Users/lyman/2015/tmp/usemin-test/app/index copy.html",
-		"/Users/lyman/2015/Y/angularjs/node_modules/grunt-usemin/package.json",
-		"/Users/lyman/2015/lymanlai.github.io/links/swift.md",
-		"/Users/lyman/2015/lymanlai.github.io/links/websocket.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/XYZ-project.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/Jobs.md",
-		"/Users/lyman/2015/lymanlai.github.io/links/sketch.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/11 tips for prototyping with Sketch.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/grunt-usemin.md",
-		"/Users/lyman/2015/tmp/usemin-test/angularjs/index.html",
-		"/Users/lyman/2015/tmp/usemin-test/angularjs/Gruntfile.js",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/gruntjs.md",
-		"/Users/lyman/2015/tmp/usemin-test/angularjs/a.css",
-		"/Users/lyman/2015/tmp/usemin-test/angularjs/a.js",
-		"/Users/lyman/2015/tmp/usemin-test/angularjs/b.js",
-		"/Users/lyman/2015/tmp/usemin-test/angularjs/b.css",
-		"/Users/lyman/2015/Y/angularjs/node_modules/grunt-contrib-imagemin/package.json",
-		"/Users/lyman/2015/Y/angularjs/node_modules/grunt-contrib-imagemin/docs/imagemin-overview.md"
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/My app design workflow.md"
 	],
 	"find":
 	{
@@ -735,7 +719,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 99.0,
+		"height": 0.0,
 		"where_history":
 		[
 			".",
@@ -873,6 +857,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"2",
+			"release",
+			"start",
+			"assets",
+			"coding",
+			"attached",
+			"assssss",
+			"node",
+			"port",
+			"8080",
+			"port",
+			"masthead",
+			"upload",
+			"sync",
+			"plugins",
+			"app",
 			"rate",
 			"socket_nodes",
 			"8080",
@@ -984,23 +984,7 @@
 			"serve",
 			"dash",
 			"../dist/",
-			"alt",
-			"find_under_expand",
-			"open",
-			"command",
-			"iso",
-			"super",
-			"ctrl",
-			"proxy",
-			"pack",
-			"time",
-			"mouse report",
-			"focus",
-			"super",
-			"super+d",
-			"edit",
-			"multi",
-			"funcName"
+			"alt"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1022,65 +1006,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/lyman/2015/meanAppWithGulp/gulpfile.js",
-					"settings":
-					{
-						"buffer_size": 4688,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4179,
-								4179
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2336.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/lyman/2015/meanAppWithGulp/server.js",
-					"settings":
-					{
-						"buffer_size": 1342,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								829,
-								829
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
