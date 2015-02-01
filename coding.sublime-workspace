@@ -520,34 +520,18 @@
 	"buffers":
 	[
 		{
-			"file": "logs/201501/31.md",
-			"settings":
-			{
-				"buffer_size": 2858,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "/Users/lyman/2015/lifeToDo/packages/custom/todo/app.js",
 			"settings":
 			{
-				"buffer_size": 1323,
+				"buffer_size": 1326,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/lyman/2015/lifeToDo/setup.md",
+			"file": "logs/201502/01.md",
 			"settings":
 			{
-				"buffer_size": 249,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/Users/lyman/2015/lifeToDo/.rsync-exclude-list",
-			"settings":
-			{
-				"buffer_size": 60,
+				"buffer_size": 2208,
 				"line_ending": "Windows"
 			}
 		}
@@ -616,16 +600,29 @@
 	},
 	"file_history":
 	[
-		"/Users/lyman/2015/01/life-todo/setup.md",
-		"/Users/lyman/2015/lifeToDo/packages/articles/app.js",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/controllers/todo.js",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/assets/css/todo.css",
+		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/UI Icons.md",
+		"/Users/lyman/2015/lifeToDo/setup.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201502/01.md",
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/views/index.html",
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/server/views/index.html",
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/app.js",
+		"/Users/lyman/2015/lifeToDo/Gruntfile.js",
+		"/Users/lyman/2015/lifeToDo/packages/contrib/comments/app.js",
 		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/todo.js",
 		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/routes/todo.js",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/views/index.html",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/app.js",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/server/views/index.html",
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/controllers/todo.js",
 		"/Users/lyman/2015/lifeToDo/packages/custom/todo/server/routes/todo.js",
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/package.json",
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/bower.json",
+		"/Users/lyman/2015/lifeToDo/gulpfile.js",
+		"/Users/lyman/2015/lifeToDo/server.js",
+		"/Users/lyman/2015/lifeToDo/.rsync-exclude-list",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201502.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/EveryDay.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/31.md",
+		"/Users/lyman/2015/01/life-todo/setup.md",
+		"/Users/lyman/2015/lifeToDo/packages/articles/app.js",
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/assets/css/todo.css",
 		"/Users/lyman/2015/lifeToDo/packages/system/public/init.js",
 		"/Users/lyman/2015/lifeToDo/packages/system/public/system.js",
 		"/Users/lyman/2015/lifeToDo/packages/system/public/views/index.html",
@@ -664,11 +661,9 @@
 		"/Users/lyman/2015/lifeToDo/packages/articles/package.json",
 		"/Users/lyman/2015/lifeToDo/packages/theme/package.json",
 		"/Users/lyman/2015/lifeToDo/packages/theme/README.md",
-		"/Users/lyman/2015/lifeToDo/gulpfile.js",
 		"/usr/local/etc/proxychains.conf",
 		"/Users/lyman/.npmrc",
 		"/Users/lyman/2015/lifeToDo/README.md",
-		"/Users/lyman/2015/lifeToDo/server.js",
 		"/Users/lyman/2015/lifeToDo/node_modules/meanio/package.json",
 		"/Users/lyman/2015/meanAppWithGulp/config/env/development.js",
 		"/Users/lyman/2015/meanAppWithGulp/config/express.js",
@@ -732,18 +727,7 @@
 		"/Users/lyman/2015/mean/todo/package.json",
 		"/Users/lyman/myCloud/TimeCapsule/cf/_doc/微官网地址.txt",
 		"/Users/lyman/2014/v2.api.yaha.me/Config.js",
-		"/Users/lyman/2014/v2.api.yaha.me/v2.api.yaha.me.conf",
-		"/Users/lyman/2014/v2.api.yaha.me/tools.md",
-		"/Users/lyman/2014/v2.api.yaha.me/tree.md",
-		"/Users/lyman/2015/LifeMate/v1/ref.md",
-		"/Users/lyman/2015/life-mate/README.md",
-		"/Users/lyman/2015/LifeMate/bootflat.github.io-master/README.markdown",
-		"/Users/lyman/2015/meanAppWithGulp/packages/articles/public/controllers/articles.js",
-		"/Users/lyman/2015/meanAppWithGulp/packages/articles/public/services/articles.js",
-		"/Users/lyman/2015/meanAppWithGulp/packages/articles/public/routes/articles.js",
-		"/Users/lyman/2015/meanAppWithGulp/packages/articles/server/controllers/articles.js",
-		"/Users/lyman/2015/meanAppWithGulp/packages/articles/public/tests/articles.spec.js",
-		"/Users/lyman/2015/meanAppWithGulp/packages/articles/server/models/article.js"
+		"/Users/lyman/2014/v2.api.yaha.me/v2.api.yaha.me.conf"
 	],
 	"find":
 	{
@@ -889,6 +873,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"timeago",
 			"node_modules",
 			"life-todo",
 			"on",
@@ -1015,8 +1000,7 @@
 			"someone",
 			"Chats",
 			"RankListItems",
-			"face",
-			"chats"
+			"face"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1038,49 +1022,23 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "logs/201501/31.md",
-					"settings":
-					{
-						"buffer_size": 2858,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2858,
-								2793
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 737.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "/Users/lyman/2015/lifeToDo/packages/custom/todo/app.js",
 					"settings":
 					{
-						"buffer_size": 1323,
+						"buffer_size": 1326,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								322,
-								322
+								568,
+								568
 							]
 						],
 						"settings":
@@ -1096,19 +1054,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/Users/lyman/2015/lifeToDo/setup.md",
+					"buffer": 1,
+					"file": "logs/201502/01.md",
 					"settings":
 					{
-						"buffer_size": 249,
+						"buffer_size": 2208,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								214,
-								168
+								2207,
+								2207
 							]
 						],
 						"settings":
@@ -1116,33 +1074,7 @@
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/lyman/2015/lifeToDo/.rsync-exclude-list",
-					"settings":
-					{
-						"buffer_size": 60,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								25,
-								25
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 65.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
