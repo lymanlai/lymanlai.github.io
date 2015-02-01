@@ -519,6 +519,38 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "logs/201501/31.md",
+			"settings":
+			{
+				"buffer_size": 2858,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/lyman/2015/lifeToDo/packages/custom/todo/app.js",
+			"settings":
+			{
+				"buffer_size": 1323,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/lyman/2015/lifeToDo/setup.md",
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/lyman/2015/lifeToDo/.rsync-exclude-list",
+			"settings":
+			{
+				"buffer_size": 60,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/JSHint/JSHint.sublime-build",
 	"command_palette":
@@ -584,9 +616,76 @@
 	},
 	"file_history":
 	[
+		"/Users/lyman/2015/01/life-todo/setup.md",
+		"/Users/lyman/2015/lifeToDo/packages/articles/app.js",
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/controllers/todo.js",
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/assets/css/todo.css",
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/todo.js",
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/routes/todo.js",
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/views/index.html",
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/app.js",
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/server/views/index.html",
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/server/routes/todo.js",
+		"/Users/lyman/2015/lifeToDo/packages/system/public/init.js",
+		"/Users/lyman/2015/lifeToDo/packages/system/public/system.js",
+		"/Users/lyman/2015/lifeToDo/packages/system/public/views/index.html",
+		"/Users/lyman/2015/lifeToDo/packages/system/public/views/header.html",
+		"/Users/lyman/2015/lifeToDo/packages/system/public/tests/index.spec.js",
+		"/Users/lyman/2015/lifeToDo/packages/system/public/tests/headers.spec.js",
+		"/Users/lyman/2015/lifeToDo/packages/system/public/services/global.js",
+		"/Users/lyman/2015/lifeToDo/packages/system/public/services/interceptor.js",
+		"/Users/lyman/2015/lifeToDo/packages/system/public/services/menus.js",
+		"/Users/lyman/2015/lifeToDo/packages/system/public/routes/system.js",
+		"/Users/lyman/2015/lifeToDo/packages/users/app.js",
+		"/Users/lyman/2015/lifeToDo/packages/users/package.json",
+		"/Users/lyman/2015/lifeToDo/packages/users/README.md",
+		"/Users/lyman/2015/lifeToDo/node_modules/meanio/index.js",
+		"/Users/lyman/2015/lifeToDo/node_modules/meanio/lib/mean.js",
+		"/Users/lyman/2015/lifeToDo/packages/system/app.js",
+		"/Users/lyman/2015/lifeToDo/packages/system/server/views/layouts/default.html",
+		"/Users/lyman/2015/lifeToDo/packages/system/server/views/404.html",
+		"/Users/lyman/2015/lifeToDo/packages/system/server/views/500.html",
+		"/Users/lyman/2015/lifeToDo/packages/system/server/views/index.html",
+		"/Users/lyman/2015/lifeToDo/packages/system/server/views/includes/head.html",
+		"/Users/lyman/2015/lifeToDo/packages/system/server/views/includes/foot.html",
+		"/Users/lyman/2015/lifeToDo/packages/system/README.md",
+		"/Users/lyman/2015/lifeToDo/packages/system/package.json",
+		"/Users/lyman/2015/lifeToDo/packages/system/server/routes/index.js",
+		"/Users/lyman/2015/lifeToDo/packages/system/server/controllers/index.js",
+		"/Users/lyman/2015/lifeToDo/packages/system/server/routes/menus.js",
+		"/Users/lyman/2015/lifeToDo/packages/articles/public/articles.js",
+		"/Users/lyman/2015/lifeToDo/packages/articles/public/routes/articles.js",
+		"/Users/lyman/2015/lifeToDo/packages/articles/public/controllers/articles.js",
+		"/Users/lyman/2015/lifeToDo/packages/articles/public/tests/articles.spec.js",
+		"/Users/lyman/2015/lifeToDo/packages/articles/public/assets/css/articles.css",
+		"/Users/lyman/2015/lifeToDo/packages/articles/public/services/articles.js",
+		"/Users/lyman/2015/lifeToDo/packages/theme/app.js",
+		"/Users/lyman/2015/lifeToDo/packages/articles/README.md",
+		"/Users/lyman/2015/lifeToDo/packages/articles/package.json",
+		"/Users/lyman/2015/lifeToDo/packages/theme/package.json",
+		"/Users/lyman/2015/lifeToDo/packages/theme/README.md",
+		"/Users/lyman/2015/lifeToDo/gulpfile.js",
+		"/usr/local/etc/proxychains.conf",
+		"/Users/lyman/.npmrc",
+		"/Users/lyman/2015/lifeToDo/README.md",
+		"/Users/lyman/2015/lifeToDo/server.js",
+		"/Users/lyman/2015/lifeToDo/node_modules/meanio/package.json",
+		"/Users/lyman/2015/meanAppWithGulp/config/env/development.js",
+		"/Users/lyman/2015/meanAppWithGulp/config/express.js",
+		"/Users/lyman/2015/meanAppWithGulp/gulpfile.js",
+		"/Users/lyman/2015/meanAppWithGulp/mean.json",
+		"/Users/lyman/2015/meanAppWithGulp/package.json",
+		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/lyman/2015/nw-demo/package.json",
+		"/Users/lyman/2015/nw-demo/index.html",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201501/30.md",
+		"/usr/local/Cellar/proxychains-ng/4.7/etc/proxychains.conf",
+		"/Users/lyman/2015/lymanlai.github.io/oh-wow/2015/01.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201501/29.md",
-		"/Users/lyman/2015/life-todo/setup.md",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf",
+		"/Users/lyman/.gitconfig",
 		"/Users/lyman/2015/life-todo/.rsync-exclude-list",
+		"/Users/lyman/2015/life-todo/setup.md",
 		"/Users/lyman/2015/life-todo/Config.js",
 		"/Users/lyman/2015/life-todo/.gitignore",
 		"/Users/lyman/2015/life-todo/server.js",
@@ -619,7 +718,6 @@
 		"/Users/lyman/2015/Y/restify/.rsync-exclude-list",
 		"/Users/lyman/2015/life-todo/npm-debug.log",
 		"/Users/lyman/2015/life-todo/build/core.js",
-		"/Users/lyman/2015/meanAppWithGulp/gulpfile.js",
 		"/Users/lyman/2015/meanAppWithGulp/server.js",
 		"/Users/lyman/2015/lymanlai.github.io/coding.sublime-project",
 		"/Users/lyman/2015/life-todo/ToDo",
@@ -633,8 +731,6 @@
 		"/Users/lyman/2015/mean/todo/.rsync-exclude-list",
 		"/Users/lyman/2015/mean/todo/package.json",
 		"/Users/lyman/myCloud/TimeCapsule/cf/_doc/微官网地址.txt",
-		"/Users/lyman/2015/nw-demo/package.json",
-		"/Users/lyman/2015/nw-demo/index.html",
 		"/Users/lyman/2014/v2.api.yaha.me/Config.js",
 		"/Users/lyman/2014/v2.api.yaha.me/v2.api.yaha.me.conf",
 		"/Users/lyman/2014/v2.api.yaha.me/tools.md",
@@ -647,71 +743,7 @@
 		"/Users/lyman/2015/meanAppWithGulp/packages/articles/public/routes/articles.js",
 		"/Users/lyman/2015/meanAppWithGulp/packages/articles/server/controllers/articles.js",
 		"/Users/lyman/2015/meanAppWithGulp/packages/articles/public/tests/articles.spec.js",
-		"/Users/lyman/2015/meanAppWithGulp/packages/articles/server/models/article.js",
-		"/Users/lyman/2015/meanAppWithGulp/packages/articles/server/tests/articles.js",
-		"/Users/lyman/2015/meanAppWithGulp/packages/articles/server/routes/articles.js",
-		"/Users/lyman/2015/meanAppWithGulp/packages/articles/app.js",
-		"/Users/lyman/2015/meanAppWithGulp/packages/articles/package.json",
-		"/Users/lyman/2015/meanAppWithGulp/packages/articles/README.md",
-		"/Users/lyman/2015/meanAppWithGulp/packages/theme/server/views/index.html",
-		"/Users/lyman/2015/meanAppWithGulp/README.md",
-		"/Users/lyman/2015/meanAppWithGulp/Gruntfile.js",
-		"/Users/lyman/2015/meanAppWithGulp/config/assets.json",
-		"/Users/lyman/2015/dating-rank/www/index.html",
-		"/Users/lyman/2015/Y/restify/helper/ToDo.js",
-		"/Users/lyman/2015/Y/restify/api/todo_v1/list.js",
-		"/Users/lyman/2015/Y/restify/api/todo_v1/add.js",
-		"/Users/lyman/2015/Y/restify/helper/Yaha.js",
-		"/Users/lyman/2015/Y/restify/helper/Jobs.js",
-		"/Users/lyman/2015/Y/restify/gulpfile.js",
-		"/Users/lyman/2015/Y/restify/checkList.md",
-		"/Users/lyman/2015/Y/angularjs/app/scripts/jobs/list.js",
-		"/Users/lyman/2015/Y/angularjs/app/scripts/jobs/views/list.html",
-		"/Users/lyman/2015/Y/restify/api/jobs/getCityList.js",
-		"/Users/lyman/2015/Y/restify/helper/Util.js",
-		"/Users/lyman/2015/Y/restify/api/moduleInit.js",
-		"/Users/lyman/2015/Y/angularjs/app/scripts/jobs/main.js",
-		"/Users/lyman/.ssh/config",
-		"/Users/lyman/2015/Y/restify/package.json",
-		"/Users/lyman/2015/Y/restify/helper/User.js",
-		"/Users/lyman/2015/Y/restify/helper/Love.js",
-		"/Users/lyman/2015/Y/angularjs/app/index.html",
-		"/Users/lyman/2015/Y/angularjs/app/scripts/user/login.js",
-		"/Users/lyman/2015/Y/angularjs/app/scripts/yh.js",
-		"/Users/lyman/2015/Y/angularjs/app/scripts/love/hangout.item.js",
-		"/Users/lyman/dropbox-code/Dropbox/api-server/.rsync-exclude-list",
-		"/Users/lyman/2015/Y/restify/helper/Database.js",
-		"/Users/lyman/2015/Y/angularjs/app/scripts/boot.js",
-		"/Users/lyman/2015/Y/angularjs/app/scripts/user/main.js",
-		"/Users/lyman/2015/Y/restify/helper/Session.js",
-		"/Users/lyman/2015/Y/restify/node_modules/moment/README.md",
-		"/Users/lyman/2015/Y/restify/tree.md",
-		"/Users/lyman/2015/Y/restify/helper/AutoLoader.js",
-		"/Users/lyman/2015/Y/restify/api/feedback.js",
-		"/Users/lyman/2015/Y/restify/node_modules/restify/lib/index.js",
-		"/Users/lyman/2015/Y/restify/node_modules/restify/lib/server.js",
-		"/Users/lyman/2015/Y/restify/node_modules/restify/lib/plugins/date.js",
-		"/Users/lyman/2015/Y/angularjs/package.json",
-		"/Users/lyman/2015/Y/angularjs/Gruntfile.js",
-		"/Users/lyman/2015/Y/angularjs/dist/.htaccess",
-		"/Users/lyman/2015/Y/angularjs/.ftppass",
-		"/Users/lyman/2015/Y/angularjs/dist/scripts/20733f78.vendors.js",
-		"/Users/lyman/2015/Y/angularjs/dist/scripts/yaha/views/about.html",
-		"/Users/lyman/2015/Y/angularjs/app/scripts/yaha/main.js",
-		"/Users/lyman/2015/Y/angularjs/component.json",
-		"/Users/lyman/2015/lymanlai.github.io/LifeMate.sublime-project",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201501/23.md",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/Open-Include/messages/install.txt",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/Open-Include/readme.md",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/Open-Include/package-metadata.json",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/Open-Include/Main.sublime-menu",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/Open-Include/Default (OSX).sublime-keymap",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/Open Folder/README.md",
-		"/Users/lyman/2015/Y/angularjs/dist/scripts/jobs/views/itemUser-skills.html",
-		"/Users/lyman/2015/tmp/grunt-usemin-example/gruntfile.js",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/iterm2.md",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201501/My app design workflow.md"
+		"/Users/lyman/2015/meanAppWithGulp/packages/articles/server/models/article.js"
 	],
 	"find":
 	{
@@ -719,7 +751,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 99.0,
 		"where_history":
 		[
 			".",
@@ -857,6 +889,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"node_modules",
+			"life-todo",
+			"on",
+			"MEAN",
+			"back",
+			"subl",
 			"2",
 			"release",
 			"start",
@@ -978,13 +1016,7 @@
 			"Chats",
 			"RankListItems",
 			"face",
-			"chats",
-			"DisLike",
-			"不喜欢",
-			"serve",
-			"dash",
-			"../dist/",
-			"alt"
+			"chats"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1006,8 +1038,115 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "logs/201501/31.md",
+					"settings":
+					{
+						"buffer_size": 2858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2858,
+								2793
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 737.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/lyman/2015/lifeToDo/packages/custom/todo/app.js",
+					"settings":
+					{
+						"buffer_size": 1323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								322
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/lyman/2015/lifeToDo/setup.md",
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								168
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/lyman/2015/lifeToDo/.rsync-exclude-list",
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
