@@ -520,19 +520,20 @@
 	"buffers":
 	[
 		{
-			"file": "logs/201502/03.md",
+			"file": "logs/201502/04.md",
 			"settings":
 			{
-				"buffer_size": 2295,
+				"buffer_size": 498,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "logs/201502/04.md",
+			"file": "posts/201502/nginx-gfw-proxy.md",
 			"settings":
 			{
-				"buffer_size": 260,
-				"line_ending": "Windows"
+				"buffer_size": 629,
+				"line_ending": "Windows",
+				"name": "server {"
 			}
 		}
 	],
@@ -600,6 +601,13 @@
 	},
 	"file_history":
 	[
+		"/usr/local/etc/nginx/nginx.conf",
+		"/Users/lyman/.curlrc",
+		"/Users/lyman/.zshrc",
+		"/Users/lyman/2015/arrking/ionic-box/bootstrap.sh",
+		"/Users/lyman/2015/arrking/ionic-box/Vagrantfile",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201502/03.md",
+		"/Users/lyman/2015/lymanlai.github.io/projects/life-mate.md",
 		"/Users/lyman/2015/arrking/com.arrking.niobe/static/mapps/mobay/index.html",
 		"/Users/lyman/2015/arrking/com.arrking.mobay/app/scripts/app.js",
 		"/Users/lyman/2015/arrking/com.arrking.niobe/static/mapps/mobay/scripts/app.js",
@@ -630,7 +638,6 @@
 		"/Users/lyman/2015/arrking/com.arrking.niobe/Gruntfile.js",
 		"/Users/lyman/2015/arrking/com.arrking.niobe/appinit.js",
 		"/Users/lyman/2015/arrking/com.arrking.niobe/package.json",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201502/03.md",
 		"/Users/lyman/2015/lymanlai.github.io/projects/1. dating-rank.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201502/02.md",
 		"/Users/lyman/2015/lymanlai.github.io/Three/2015/02/arrking.md",
@@ -721,13 +728,7 @@
 		"/usr/local/etc/proxychains.conf",
 		"/Users/lyman/.npmrc",
 		"/Users/lyman/2015/lifeToDo/README.md",
-		"/Users/lyman/2015/lifeToDo/node_modules/meanio/package.json",
-		"/Users/lyman/2015/meanAppWithGulp/config/env/development.js",
-		"/Users/lyman/2015/meanAppWithGulp/config/express.js",
-		"/Users/lyman/2015/meanAppWithGulp/gulpfile.js",
-		"/Users/lyman/2015/meanAppWithGulp/mean.json",
-		"/Users/lyman/2015/meanAppWithGulp/package.json",
-		"/Users/lyman/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+		"/Users/lyman/2015/lifeToDo/node_modules/meanio/package.json"
 	],
 	"find":
 	{
@@ -735,7 +736,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 99.0,
+		"height": 0.0,
 		"where_history":
 		[
 			".",
@@ -873,6 +874,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"html",
+			"#",
+			"path",
 			"Rank",
 			"html",
 			"templates",
@@ -997,10 +1001,7 @@
 			"url",
 			"pass",
 			"plugin",
-			"plugins",
-			"Sketch",
-			"leancloud",
-			"do"
+			"plugins"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1027,18 +1028,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "logs/201502/03.md",
+					"file": "logs/201502/04.md",
 					"settings":
 					{
-						"buffer_size": 2295,
+						"buffer_size": 498,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								136,
-								136
+								261,
+								261
 							]
 						],
 						"settings":
@@ -1053,23 +1054,26 @@
 				},
 				{
 					"buffer": 1,
-					"file": "logs/201502/04.md",
+					"file": "posts/201502/nginx-gfw-proxy.md",
 					"settings":
 					{
-						"buffer_size": 260,
+						"buffer_size": 629,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								260,
-								218
+								571,
+								571
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"auto_name": "server {",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
