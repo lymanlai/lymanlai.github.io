@@ -520,20 +520,11 @@
 	"buffers":
 	[
 		{
-			"file": "logs/201502/04.md",
+			"file": "logs/201502/07.md",
 			"settings":
 			{
-				"buffer_size": 498,
+				"buffer_size": 133,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "posts/201502/nginx-gfw-proxy.md",
-			"settings":
-			{
-				"buffer_size": 629,
-				"line_ending": "Windows",
-				"name": "server {"
 			}
 		}
 	],
@@ -601,6 +592,64 @@
 	},
 	"file_history":
 	[
+		"/Users/lyman/2015/ToDo/threeHours/app/templates/tabs.html",
+		"/Users/lyman/2015/ToDo/threeHours/app/scripts/controllers.js",
+		"/Users/lyman/2015/ToDo/threeHours/app/scripts/app.js",
+		"/Users/lyman/2015/ToDo/threeHours/app/templates/list-detail.html",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201502/07.md",
+		"/Users/lyman/2015/ToDo/threeHours/app/index.html",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/services/wechat_backend.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/package.json",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201502/06.md",
+		"/Users/lyman/2015/ToDo/threeHours/app/templates/list-index.html",
+		"/Users/lyman/2015/ToDo/threeHours/app/scripts/services.js",
+		"/Users/lyman/2015/ToDo/threeHours/app/scripts/config.js",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201502/05.md",
+		"/Users/lyman/2015/ToDo/todoIonic/app/index.html",
+		"/Users/lyman/2015/ToDo/todoIonic/app/templates/tab-list.html",
+		"/Users/lyman/2015/ToDo/todoIonic/app/scripts/controllers.js",
+		"/Users/lyman/2015/ToDo/todoIonic/app/scripts/app.js",
+		"/Users/lyman/2015/ToDo/todoIonic/app/templates/tabs.html",
+		"/Users/lyman/2015/ToDo/todoIonic/app/templates/tab-dash.html",
+		"/Users/lyman/2015/ToDo/todoIonic/app/scripts/config.js",
+		"/Users/lyman/2015/arrking/com.arrking.mobay/app/index.html",
+		"/Users/lyman/2015/arrking/com.arrking.mobay/app/scripts/util.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/scripts/controllers.js",
+		"/Users/lyman/2015/arrking/com.arrking.mobay/app/scripts/controllers.js",
+		"/Users/lyman/2015/arrking/com.arrking.mobay/app/templates/tab-settings.html",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tab-setting.html",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tabs.html",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/scripts/app.js",
+		"/Users/lyman/2015/ToDo/todoIonic/app/templates/tab-demo.html",
+		"/Users/lyman/2015/lymanlai.github.io/links/sketch.md",
+		"/Users/lyman/2015/ToDo/todoIonic/app/scripts/services.js",
+		"/Users/lyman/2015/lymanlai.github.io/coding.sublime-project",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/scripts/services.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/scripts/config.js",
+		"/Users/lyman/2015/ToDo/todoIonic/Gruntfile.js",
+		"/Users/lyman/2015/ToDo/todoIonic/config.xml",
+		"/Users/lyman/2015/ToDo/todoIonic/package.json",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tab-orderHistory.html",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tab-order.html",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tab-friends.html",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tab-dash.html",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/friend-detail.html",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tab-account.html",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/index.html",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/package.json",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/Gruntfile.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/ionic.project",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/.gitignore",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/niobe.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tab-map.html",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/lib/ionic/release/css/ionic.css",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201502/04.md",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay2/bower.json",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay2/.bowerrc",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay2/package.json",
+		"/Users/lyman/2015/01/Y/restify/setup.md",
+		"/Users/lyman/.npmrc",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201502/nginx-gfw-proxy.md",
 		"/usr/local/etc/nginx/nginx.conf",
 		"/Users/lyman/.curlrc",
 		"/Users/lyman/.zshrc",
@@ -619,9 +668,7 @@
 		"/Users/lyman/2015/arrking/com.arrking.niobe/static/mapps/mobay/templates/login-form.html",
 		"/Users/lyman/Downloads/sum-1.2.0/README.md",
 		"/Users/lyman/Downloads/sum-1.2.0/backend.php",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/services/wechat_backend.js",
 		"/Users/lyman/2015/arrking/com.arrking.mobay/README.md",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/niobe.js",
 		"/Users/lyman/2015/arrking/com.arrking.niobe/services/eventSubscriptions.js",
 		"/Users/lyman/2015/arrking/com.arrking.niobe/common/paginator.js",
 		"/Users/lyman/2015/arrking/com.arrking.niobe/routes/index.js",
@@ -637,7 +684,6 @@
 		"/Users/lyman/2015/arrking/com.arrking.niobe/common/index.js",
 		"/Users/lyman/2015/arrking/com.arrking.niobe/Gruntfile.js",
 		"/Users/lyman/2015/arrking/com.arrking.niobe/appinit.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/package.json",
 		"/Users/lyman/2015/lymanlai.github.io/projects/1. dating-rank.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201502/02.md",
 		"/Users/lyman/2015/lymanlai.github.io/Three/2015/02/arrking.md",
@@ -673,62 +719,7 @@
 		"/Users/lyman/2015/lifeToDo/packages/custom/todo/server/views/index.html",
 		"/Users/lyman/2015/lifeToDo/Gruntfile.js",
 		"/Users/lyman/2015/lifeToDo/packages/contrib/comments/app.js",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/todo.js",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/routes/todo.js",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/controllers/todo.js",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/server/routes/todo.js",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/package.json",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/bower.json",
-		"/Users/lyman/2015/lifeToDo/gulpfile.js",
-		"/Users/lyman/2015/lifeToDo/server.js",
-		"/Users/lyman/2015/lifeToDo/.rsync-exclude-list",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201502.md",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201501/31.md",
-		"/Users/lyman/2015/01/life-todo/setup.md",
-		"/Users/lyman/2015/lifeToDo/packages/articles/app.js",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/assets/css/todo.css",
-		"/Users/lyman/2015/lifeToDo/packages/system/public/init.js",
-		"/Users/lyman/2015/lifeToDo/packages/system/public/system.js",
-		"/Users/lyman/2015/lifeToDo/packages/system/public/views/index.html",
-		"/Users/lyman/2015/lifeToDo/packages/system/public/views/header.html",
-		"/Users/lyman/2015/lifeToDo/packages/system/public/tests/index.spec.js",
-		"/Users/lyman/2015/lifeToDo/packages/system/public/tests/headers.spec.js",
-		"/Users/lyman/2015/lifeToDo/packages/system/public/services/global.js",
-		"/Users/lyman/2015/lifeToDo/packages/system/public/services/interceptor.js",
-		"/Users/lyman/2015/lifeToDo/packages/system/public/services/menus.js",
-		"/Users/lyman/2015/lifeToDo/packages/system/public/routes/system.js",
-		"/Users/lyman/2015/lifeToDo/packages/users/app.js",
-		"/Users/lyman/2015/lifeToDo/packages/users/package.json",
-		"/Users/lyman/2015/lifeToDo/packages/users/README.md",
-		"/Users/lyman/2015/lifeToDo/node_modules/meanio/index.js",
-		"/Users/lyman/2015/lifeToDo/node_modules/meanio/lib/mean.js",
-		"/Users/lyman/2015/lifeToDo/packages/system/app.js",
-		"/Users/lyman/2015/lifeToDo/packages/system/server/views/layouts/default.html",
-		"/Users/lyman/2015/lifeToDo/packages/system/server/views/404.html",
-		"/Users/lyman/2015/lifeToDo/packages/system/server/views/500.html",
-		"/Users/lyman/2015/lifeToDo/packages/system/server/views/index.html",
-		"/Users/lyman/2015/lifeToDo/packages/system/server/views/includes/head.html",
-		"/Users/lyman/2015/lifeToDo/packages/system/server/views/includes/foot.html",
-		"/Users/lyman/2015/lifeToDo/packages/system/README.md",
-		"/Users/lyman/2015/lifeToDo/packages/system/package.json",
-		"/Users/lyman/2015/lifeToDo/packages/system/server/routes/index.js",
-		"/Users/lyman/2015/lifeToDo/packages/system/server/controllers/index.js",
-		"/Users/lyman/2015/lifeToDo/packages/system/server/routes/menus.js",
-		"/Users/lyman/2015/lifeToDo/packages/articles/public/articles.js",
-		"/Users/lyman/2015/lifeToDo/packages/articles/public/routes/articles.js",
-		"/Users/lyman/2015/lifeToDo/packages/articles/public/controllers/articles.js",
-		"/Users/lyman/2015/lifeToDo/packages/articles/public/tests/articles.spec.js",
-		"/Users/lyman/2015/lifeToDo/packages/articles/public/assets/css/articles.css",
-		"/Users/lyman/2015/lifeToDo/packages/articles/public/services/articles.js",
-		"/Users/lyman/2015/lifeToDo/packages/theme/app.js",
-		"/Users/lyman/2015/lifeToDo/packages/articles/README.md",
-		"/Users/lyman/2015/lifeToDo/packages/articles/package.json",
-		"/Users/lyman/2015/lifeToDo/packages/theme/package.json",
-		"/Users/lyman/2015/lifeToDo/packages/theme/README.md",
-		"/usr/local/etc/proxychains.conf",
-		"/Users/lyman/.npmrc",
-		"/Users/lyman/2015/lifeToDo/README.md",
-		"/Users/lyman/2015/lifeToDo/node_modules/meanio/package.json"
+		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/todo.js"
 	],
 	"find":
 	{
@@ -874,6 +865,40 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"wecha",
+			"pet",
+			"Pet",
+			"pet",
+			"demo",
+			"优惠",
+			"settings",
+			"setting",
+			"aaaa",
+			"zzzz",
+			"demo",
+			"All",
+			"all",
+			"8100",
+			"Inspect and valid the API version, and select the",
+			"lab",
+			"delay",
+			"watch",
+			"wath",
+			"time",
+			"cart",
+			"order",
+			"map",
+			"订单",
+			"室内地图",
+			"order",
+			"account",
+			"Account",
+			"account",
+			"order",
+			"map",
+			"friends",
+			"dash",
+			"true",
 			"html",
 			"#",
 			"path",
@@ -967,41 +992,7 @@
 			"/styles",
 			"styles",
 			"scripts",
-			"yaha",
-			"usemin",
-			"dist",
-			"htmlmin",
-			"htmlmin:dis",
-			"'htmlmin:dist',",
-			"htmlmin",
-			"compass",
-			"imagemin",
-			"compass",
-			"Link",
-			"pkgConfig",
-			"yaha",
-			"name",
-			"yeoman",
-			"lrSnippet",
-			"livereloadSnippet",
-			"www",
-			".",
-			"download('",
-			"\">Download</a></span>",
-			"download('",
-			"download('/cloud/",
-			"Download",
-			"download",
-			"Download",
-			"download",
-			"Download",
-			"download",
-			"Download",
-			"download",
-			"url",
-			"pass",
-			"plugin",
-			"plugins"
+			"yaha"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1023,57 +1014,28 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "logs/201502/04.md",
+					"file": "logs/201502/07.md",
 					"settings":
 					{
-						"buffer_size": 498,
+						"buffer_size": 133,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								261,
-								261
+								133,
+								133
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "posts/201502/nginx-gfw-proxy.md",
-					"settings":
-					{
-						"buffer_size": 629,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								571,
-								571
-							]
-						],
-						"settings":
-						{
-							"auto_name": "server {",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
