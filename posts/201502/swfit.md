@@ -51,8 +51,15 @@ if let name = optionalName {
   greeting = "Hello, \(name)"
 }
 
+#switch
+let vegetable = "red pepper"
+switch vegetable {
+  case "celery":
+    let vegetableComment = "Add some raisins and make ants on a log."
+  case "cucumber", "watercress":
+    let vegetableComment = "That would make a good tea sandwich."
 
-
+}
 
 
 
