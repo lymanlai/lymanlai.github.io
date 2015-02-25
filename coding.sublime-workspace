@@ -4,6 +4,42 @@
 		"selected_items":
 		[
 			[
+				"vege",
+				"vegetableComment"
+			],
+			[
+				"opti",
+				"optionalString"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"cle",
+				"clientSecret"
+			],
+			[
+				"clie",
+				"clientID"
+			],
+			[
+				"open",
+				"openid"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"accessTo",
+				"accessToken"
+			],
+			[
+				"access",
+				"fbAccessToken"
+			],
+			[
 				"rs",
 				"rsyncHelper"
 			],
@@ -98,10 +134,6 @@
 			[
 				"tick",
 				"tickingType"
-			],
-			[
-				"pro",
-				"progress"
 			],
 			[
 				"resi",
@@ -482,51 +514,11 @@
 			[
 				"lab",
 				"labelColor"
-			],
-			[
-				"att",
-				"attributes"
-			],
-			[
-				"ver",
-				"vertical-align"
-			],
-			[
-				"take",
-				"takePhotoOf"
-			],
-			[
-				"fir",
-				"firstMeetStep"
-			],
-			[
-				"first",
-				"firstMeetData"
-			],
-			[
-				"firs",
-				"firstMeetId"
-			],
-			[
-				"firstMee",
-				"firstMeetList"
-			],
-			[
-				"tic",
-				"ticketNumber"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "logs/201502/07.md",
-			"settings":
-			{
-				"buffer_size": 133,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/JSHint/JSHint.sublime-build",
 	"command_palette":
@@ -592,134 +584,134 @@
 	},
 	"file_history":
 	[
-		"/Users/lyman/2015/ToDo/threeHours/app/templates/tabs.html",
-		"/Users/lyman/2015/ToDo/threeHours/app/scripts/controllers.js",
-		"/Users/lyman/2015/ToDo/threeHours/app/scripts/app.js",
-		"/Users/lyman/2015/ToDo/threeHours/app/templates/list-detail.html",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201502/07.md",
-		"/Users/lyman/2015/ToDo/threeHours/app/index.html",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/services/wechat_backend.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/package.json",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201502/06.md",
-		"/Users/lyman/2015/ToDo/threeHours/app/templates/list-index.html",
-		"/Users/lyman/2015/ToDo/threeHours/app/scripts/services.js",
-		"/Users/lyman/2015/ToDo/threeHours/app/scripts/config.js",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201502/05.md",
-		"/Users/lyman/2015/ToDo/todoIonic/app/index.html",
-		"/Users/lyman/2015/ToDo/todoIonic/app/templates/tab-list.html",
-		"/Users/lyman/2015/ToDo/todoIonic/app/scripts/controllers.js",
-		"/Users/lyman/2015/ToDo/todoIonic/app/scripts/app.js",
-		"/Users/lyman/2015/ToDo/todoIonic/app/templates/tabs.html",
-		"/Users/lyman/2015/ToDo/todoIonic/app/templates/tab-dash.html",
-		"/Users/lyman/2015/ToDo/todoIonic/app/scripts/config.js",
-		"/Users/lyman/2015/arrking/com.arrking.mobay/app/index.html",
-		"/Users/lyman/2015/arrking/com.arrking.mobay/app/scripts/util.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/scripts/controllers.js",
-		"/Users/lyman/2015/arrking/com.arrking.mobay/app/scripts/controllers.js",
-		"/Users/lyman/2015/arrking/com.arrking.mobay/app/templates/tab-settings.html",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tab-setting.html",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tabs.html",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/scripts/app.js",
-		"/Users/lyman/2015/ToDo/todoIonic/app/templates/tab-demo.html",
-		"/Users/lyman/2015/lymanlai.github.io/links/sketch.md",
-		"/Users/lyman/2015/ToDo/todoIonic/app/scripts/services.js",
-		"/Users/lyman/2015/lymanlai.github.io/coding.sublime-project",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/scripts/services.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/scripts/config.js",
-		"/Users/lyman/2015/ToDo/todoIonic/Gruntfile.js",
-		"/Users/lyman/2015/ToDo/todoIonic/config.xml",
-		"/Users/lyman/2015/ToDo/todoIonic/package.json",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tab-orderHistory.html",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tab-order.html",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tab-friends.html",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tab-dash.html",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/friend-detail.html",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tab-account.html",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/index.html",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/package.json",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/Gruntfile.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/ionic.project",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/.gitignore",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/niobe.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/templates/tab-map.html",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay/app/lib/ionic/release/css/ionic.css",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201502/04.md",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay2/bower.json",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay2/.bowerrc",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/mapps-workspace/mobay2/package.json",
-		"/Users/lyman/2015/01/Y/restify/setup.md",
-		"/Users/lyman/.npmrc",
-		"/Users/lyman/2015/lymanlai.github.io/posts/201502/nginx-gfw-proxy.md",
-		"/usr/local/etc/nginx/nginx.conf",
-		"/Users/lyman/.curlrc",
-		"/Users/lyman/.zshrc",
-		"/Users/lyman/2015/arrking/ionic-box/bootstrap.sh",
-		"/Users/lyman/2015/arrking/ionic-box/Vagrantfile",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201502/03.md",
-		"/Users/lyman/2015/lymanlai.github.io/projects/life-mate.md",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/static/mapps/mobay/index.html",
-		"/Users/lyman/2015/arrking/com.arrking.mobay/app/scripts/app.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/static/mapps/mobay/scripts/app.js",
-		"/Users/lyman/2015/arrking/com.arrking.mobay/app/scripts/config.js",
-		"/Users/lyman/2015/arrking/com.arrking.mobay/config/development.json",
-		"/Users/lyman/.ssh/config",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/static/mapps/mobay/scripts/config.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/static/mapps/vshang/index.html",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/static/mapps/mobay/templates/login-form.html",
-		"/Users/lyman/Downloads/sum-1.2.0/README.md",
-		"/Users/lyman/Downloads/sum-1.2.0/backend.php",
-		"/Users/lyman/2015/arrking/com.arrking.mobay/README.md",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/services/eventSubscriptions.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/common/paginator.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/routes/index.js",
+		"/Users/lyman/2015/02-working-on/HAH/www/index.html",
+		"/Users/lyman/2015/02-working-on/HAH/www/js/controllers.js",
+		"/Users/lyman/2015/02-working-on/HAH/www/js/app.js",
+		"/Users/lyman/2015/02-working-on/HAH/www/templates/tab-home.html",
+		"/Users/lyman/2015/02-working-on/HAH/www/templates/tabs.html",
+		"/Users/lyman/2015/02-working-on/HAH/www/templates/tab-chats.html",
+		"/Users/lyman/2015/02-working-on/HAH/www/templates/tab-dash.html",
+		"/Users/lyman/2015/02-working-on/HAH/www/README.md",
 		"/Users/lyman/2015/Company/reg.md",
-		"/Users/lyman/2015/arrking/com.arrking.mobay/Gruntfile.js",
-		"/Users/lyman/2015/lymanlai.github.io/projects/Node.md",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/routes/authentication.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/persistence/database.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/routes/broker.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/routes/collections.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/routes/ssestream.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/persistence/sampledata/collections/WXUsers.json",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/common/index.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/Gruntfile.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/appinit.js",
-		"/Users/lyman/2015/lymanlai.github.io/projects/1. dating-rank.md",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201502/02.md",
-		"/Users/lyman/2015/lymanlai.github.io/Three/2015/02/arrking.md",
-		"/Users/lyman/2015/lymanlai.github.io/Three/2015/02/Hourly.md",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/README.md",
-		"/Users/lyman/2015/lymanlai.github.io/Three/2015/02/match.md",
-		"/usr/local/etc/mongod.conf",
-		"/usr/local/etc/redis.conf",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201502/swfit.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201502/16.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201502/14.md",
+		"/Users/lyman/Desktop/sketch-pratice/20150215-half-an-hour/README.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201502/15.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201502/15.dm",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201502/13.md",
+		"/Users/lyman/2015/node/app/routes.js",
+		"/Users/lyman/2015/lymanlai.github.io/pages/javascript.js",
+		"/Users/lyman/2015/node/nodemon.json",
+		"/Users/lyman/2015/node/README.md",
+		"/Users/lyman/2015/node/.gitignore",
+		"/Users/lyman/2015/node/server.js",
+		"/Users/lyman/2015/lymanlai.github.io/pages/node.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201502.md",
+		"/Users/lyman/2015/node/package.json",
+		"/Users/lyman/2015/node/config/auth.js",
+		"/Users/lyman/2015/node/config/database.js",
+		"/Users/lyman/2015/node/LICENSE",
+		"/Users/lyman/2015/easy-node-authentication/README.md",
+		"/Users/lyman/2015/easy-node-authentication/config/database.js",
+		"/Users/lyman/2015/easy-node-authentication/config/auth.js",
+		"/Users/lyman/2015/passport-local/README.md",
+		"/Users/lyman/2015/node/views/index.ejs",
+		"/Users/lyman/2015/node/config/passport.js",
+		"/Users/lyman/2015/node/views/profile.ejs",
+		"/Users/lyman/2015/node/views/connect-local.ejs",
+		"/Users/lyman/2015/node/app/models/user.js",
+		"/Users/lyman/2015/easy-node-authentication/views/index.ejs",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201502/12.md",
+		"/Users/lyman/2015/node/views/login.ejs",
+		"/Users/lyman/2015/my-easy-node-authentication/views/index.ejs",
+		"/Users/lyman/2015/my-easy-node-authentication/views/signup.ejs",
+		"/Users/lyman/2015/my-easy-node-authentication/views/login.ejs",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201502/Easy Node Authentication.md",
+		"/Users/lyman/2015/my-easy-node-authentication/server.js",
+		"/Users/lyman/2015/my-easy-node-authentication/app/models/user.js",
+		"/Users/lyman/2015/my-easy-node-authentication/config/passport.js",
+		"/Users/lyman/2015/my-easy-node-authentication/app/routes.js",
+		"/Users/lyman/2015/my-easy-node-authentication/config/database.js",
+		"/Users/lyman/2015/my-easy-node-authentication/package.json",
 		"/Users/lyman/2015/lymanlai.github.io/posts/201502/redis.md",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/routes/modules.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/config/apiVersion.json",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/config/css_interpreter.json",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/config/faultCodeHelper.json",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/config/log4js.json",
+		"/Users/lyman/2015/my-easy-node-authentication/views/index.ejs,",
+		"/Users/lyman/2015/my-easy-node-authentication/views/login.ejs,",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/access/app.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/access/server/config/authorization.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/access/server/config/passport.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/articles/app.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/articles/server/models/article.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/articles/server/routes/articles.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/niobe.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/routes/authentication.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/routes/collections.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/articles/public/articles.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/articles/public/assets/css/articles.css",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/articles/public/routes/articles.js",
+		"/Users/lyman/node_modules/meanio/lib/mean.js",
+		"/Users/lyman/node_modules/meanio/lib/module.js",
+		"/Users/lyman/2015/lymanlai.github.io/posts/201501/MEAN.md",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/access/README.md",
+		"/Users/lyman/2015/ToDo/lifeToDo/node_modules/meanio/lib/mean.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/access/package.json",
+		"/Users/lyman/2015/ToDo/lifeToDo/node_modules/meanio/lib/util.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/node_modules/meanio/lib/platform.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/node_modules/meanio/lib/module.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/node_modules/meanio/lib/menu.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/node_modules/meanio/lib/config.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/server.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/node_modules/meanio/lib/bootstrap.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/node_modules/meanio/index.js",
+		"/Users/lyman/2015/01/Y/restify/helper/Debug.js",
+		"/Users/lyman/2015/01/Y/restify/helper/Cors.js",
+		"/Users/lyman/2015/01/Y/restify/api/index.js",
+		"/Users/lyman/2015/01/Y/restify/api/feedback.js",
+		"/Users/lyman/2015/01/Y/restify/api/yaha/itemUserAdd.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/users/app.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/users/public/users.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/users/public/views/forgot-password.html",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/users/public/controllers/meanUser.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/users/public/assets/css/meanUser.css",
+		"/Users/lyman/2015/01/Y/restify/serverRestart.dev.js",
+		"/Users/lyman/2015/01/Y/restify/tree.md",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/users/package.json",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/users/README.md",
+		"/Users/lyman/2015/ToDo/lifeToDo/Gruntfile.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/tools/grunt/Gruntfile.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/tools/gulp/gulpfile.js",
+		"/Users/lyman/2015/ToDo/lifeToDo/packages/theme/app.js",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201502/11.md",
+		"/Users/lyman/node_modules/grunt-contrib-watch/node_modules/lodash/package.json",
+		"/Users/lyman/2015/ToDo/lifeToDo/README.md",
+		"/Users/lyman/2015/ToDo/lifeToDo/package.json",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/node_modules/passport-wechat/lib/strategy.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/node_modules/passport-http/lib/passport-http/index.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/node_modules/passport-http/lib/passport-http/strategies/basic.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/node_modules/passport-wechat/lib/index.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/auth.js",
+		"/Users/lyman/2015/easy-node-authentication/server.js",
+		"/Users/lyman/2015/easy-node-authentication/config/passport.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/routes/index.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/auth/index.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/node_modules/passport-facebook/lib/strategy.js",
+		"/Users/lyman/2015/easy-node-authentication/app/routes.js",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/common/index.js",
 		"/Users/lyman/2015/arrking/com.arrking.niobe/config/system_properties.json",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/logs/index.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/doc/migrationNeeded.txt",
-		"/Users/lyman/2015/lymanlai.github.io/Three/2015/02/ToDo.md",
-		"/Users/lyman/2015/lymanlai.github.io/Three/2015/02/DatingRank",
-		"/Users/lyman/2015/lymanlai.github.io/tasks/2015/01/ToDoList.md",
-		"/Users/lyman/2015/lymanlai.github.io/logs/EveryDay.md",
-		"/Users/lyman/2015/lymanlai.github.io/logs/201502/01.md",
-		"/Users/lyman/2015/02/lyman.yaha.me/index.html",
-		"/Users/lyman/2015/02/lyman.yaha.me/readme.md",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/app.js",
-		"/Users/lyman/2015/lyman.yaha.me/php/contact.php",
-		"/Users/lyman/2015/coffee-o2o/information.md",
-		"/Users/lyman/2015/lymanlai.github.io/lyman.yaha.me/css/slideshow.css",
-		"/Users/lyman/2015/lymanlai.github.io/lyman.yaha.me/index.html",
-		"/Users/lyman/2015/lymanlai.github.io/projects/design-code/UI Icons.md",
-		"/Users/lyman/2015/lifeToDo/setup.md",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/views/index.html",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/server/views/index.html",
-		"/Users/lyman/2015/lifeToDo/Gruntfile.js",
-		"/Users/lyman/2015/lifeToDo/packages/contrib/comments/app.js",
-		"/Users/lyman/2015/lifeToDo/packages/custom/todo/public/todo.js"
+		"/Users/lyman/2015/arrking/com.arrking.niobe/node_modules/passport-wechat/README.md",
+		"/Users/lyman/2015/arrking/com.arrking.niobe/node_modules/passport-facebook/README.md",
+		"/Users/lyman/2015/arrking/testApp/app.js",
+		"/Users/lyman/2015/arrking/testApp/routes/oauth2.js",
+		"/Users/lyman/2015/arrking/testApp/node_modules/passport-wechat/lib/strategy.js",
+		"/Users/lyman/2015/arrking/testApp/node_modules/passport-wechat/README.md",
+		"/Users/lyman/2015/arrking/testApp/node_modules/passport-weixin/lib/index.js",
+		"/Users/lyman/2015/arrking/testApp/node_modules/passport-weixin/lib/strategy.js",
+		"/Users/lyman/2015/arrking/testApp/node_modules/passport-weixin/README.md",
+		"/Users/lyman/2015/passport-local/app.js",
+		"/Users/lyman/2015/passport-local/node_modules/passport-weixin/lib/strategy.js",
+		"/Users/lyman/2015/passport-local/node_modules/passport-weixin/lib/profile.js",
+		"/Users/lyman/2015/passport-local/node_modules/passport-weixin/lib/index.js",
+		"/Users/lyman/2015/passport-local/node_modules/passport-wechat/lib/strategy.js"
 	],
 	"find":
 	{
@@ -865,6 +857,99 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"dash",
+			"8081",
+			"app",
+			"test",
+			"configAuth",
+			"ext",
+			"get",
+			"wechat",
+			"appsecret",
+			"appid",
+			"OAuth2Strategy requires a clientID optio",
+			"nickname",
+			"WechatStrategy",
+			"login",
+			"routes",
+			"session",
+			"console.log",
+			"Error logging in user",
+			"Cast to string failed for value",
+			"handleLoginCallback",
+			"verify",
+			"session",
+			"_verify",
+			"_veri",
+			"session",
+			"cookie",
+			"session",
+			"findOrCreate",
+			"session",
+			"req.logIn",
+			"req.Login",
+			"session",
+			"cors",
+			"auth/basi",
+			"loginreroute",
+			"findOrCreate",
+			"profileSch",
+			"profile",
+			"local",
+			"BasicStrategy",
+			"findOrCreate",
+			"profileModule",
+			"Email",
+			"app.",
+			"appinit",
+			"app",
+			"common",
+			"Default page size",
+			"Default page size:",
+			"routes/authentication",
+			"authentication",
+			"auth/google",
+			"google",
+			"save",
+			"mongooseModel",
+			"mongooseModel.save",
+			"initialize",
+			"session",
+			"ensureAuthenticated",
+			"passport.authenticate('wechat')",
+			"logger",
+			"Something broke!",
+			"message\":\"Something broke!",
+			"oauth2",
+			".authenticate",
+			"authenticate",
+			"/oauth2",
+			"wechat",
+			"WechatStrategy",
+			"/auth",
+			"auth",
+			"ensureAuthenticated",
+			"me",
+			"yaha",
+			"from",
+			"wechat",
+			"port",
+			"app.",
+			"app",
+			"/auth",
+			"auth",
+			"done",
+			"users",
+			"backend",
+			"wechat_backend",
+			"wecha",
+			"port",
+			"wechat",
+			"wechat_web",
+			"wechat_gzh",
+			"sys",
+			"WeixinStrategy",
+			"session",
 			"wecha",
 			"pet",
 			"Pet",
@@ -899,100 +984,7 @@
 			"friends",
 			"dash",
 			"true",
-			"html",
-			"#",
-			"path",
-			"Rank",
-			"html",
-			"templates",
-			"login",
-			"template/",
-			"updateTimerEvent",
-			"removeTimerEvent",
-			"eventTimers.remove",
-			"ClientList",
-			"ClientList.remove",
-			"ClientList",
-			"Should not be here",
-			"ProcessAdmin_userid",
-			"login",
-			"auth/basic",
-			"auth/base",
-			"auth",
-			"users",
-			"Sketch",
-			"Design",
-			"store",
-			"path",
-			"data",
-			"illustration",
-			"branding",
-			"Present",
-			"Wang",
-			"timeago",
-			"node_modules",
-			"life-todo",
-			"on",
-			"MEAN",
-			"back",
-			"subl",
-			"2",
-			"release",
-			"start",
-			"assets",
-			"coding",
-			"attached",
-			"assssss",
-			"node",
-			"port",
-			"8080",
-			"port",
-			"masthead",
-			"upload",
-			"sync",
-			"plugins",
-			"app",
-			"rate",
-			"socket_nodes",
-			"8080",
-			"!results.next()",
-			"return_changes",
-			"return_vals",
-			"city",
-			"guilp",
-			"!result.next()",
-			"secu",
-			"peopleImg",
-			"avatarUrl",
-			"avatar",
-			"STATIC_HOST",
-			"avatar.yaha",
-			"avatar",
-			"imagemagick",
-			"sid",
-			"generate",
-			"data",
-			"returnChanges",
-			"ftp",
-			"ugli",
-			"htmlmin",
-			"ugl",
-			"generated",
-			"cssmin",
-			"generated",
-			"concat",
-			"usemin",
-			"src",
-			"dist",
-			"dest",
-			"prepare",
-			"<%= pkg.app %>",
-			"animate",
-			"share",
-			"/styles",
-			"styles",
-			"scripts",
-			"yaha"
+			"html"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1005,7 +997,7 @@
 			"",
 			"@ yahaLove"
 		],
-		"reverse": true,
+		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -1014,35 +1006,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "logs/201502/07.md",
-					"settings":
-					{
-						"buffer_size": 133,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								133,
-								133
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1104,6 +1069,34 @@
 		"selected_items":
 		[
 			[
+				"rout",
+				"node/app/routes.js"
+			],
+			[
+				"pro",
+				"node/views/profile.ejs"
+			],
+			[
+				"auth.js",
+				"node/config/auth.js"
+			],
+			[
+				"pass",
+				"node/config/passport.js"
+			],
+			[
+				"index",
+				"node/views/index.ejs"
+			],
+			[
+				"index.ej",
+				"easy-node-authentication/views/index.ejs"
+			],
+			[
+				"user.",
+				"node/app/models/user.js"
+			],
+			[
 				"inde",
 				"app/index.html"
 			],
@@ -1114,10 +1107,6 @@
 			[
 				"men",
 				"app/menu.html"
-			],
-			[
-				"index",
-				"app/index.html"
 			],
 			[
 				"todo/item.",
@@ -1452,10 +1441,6 @@
 				"Config.js"
 			],
 			[
-				"user.",
-				"helper/User.js"
-			],
-			[
 				"api/user/in",
 				"api/user/index.js"
 			],
@@ -1593,26 +1578,6 @@
 			],
 			[
 				"app.sc",
-				"app/styles/app.scss"
-			],
-			[
-				"respon",
-				"app/components/responsive-nav/responsive-nav.js"
-			],
-			[
-				"ap",
-				"app/styles/app.scss"
-			],
-			[
-				"todo/ind",
-				"app/scripts/todo/views/index.html"
-			],
-			[
-				"todo/maiht",
-				"app/scripts/todo/views/main.html"
-			],
-			[
-				"app.s",
 				"app/styles/app.scss"
 			]
 		],
