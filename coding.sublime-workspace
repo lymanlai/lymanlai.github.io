@@ -519,14 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "logs/201503/05.md",
-			"settings":
-			{
-				"buffer_size": 53,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/JSHint/JSHint.sublime-build",
 	"command_palette":
@@ -592,8 +584,9 @@
 	},
 	"file_history":
 	[
-		"/Users/lyman/2015/lymanlai.github.io/logs/201503/04.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201503/05.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201503/06.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201503/04.md",
 		"/Users/lyman/Downloads/designcode.io/download.txt",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201502.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201503/02.md",
@@ -718,8 +711,7 @@
 		"/Users/lyman/2015/easy-node-authentication/config/passport.js",
 		"/Users/lyman/2015/arrking/com.arrking.niobe/routes/index.js",
 		"/Users/lyman/2015/arrking/com.arrking.niobe/auth/index.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/node_modules/passport-facebook/lib/strategy.js",
-		"/Users/lyman/2015/easy-node-authentication/app/routes.js"
+		"/Users/lyman/2015/arrking/com.arrking.niobe/node_modules/passport-facebook/lib/strategy.js"
 	],
 	"find":
 	{
@@ -1014,35 +1006,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "logs/201503/05.md",
-					"settings":
-					{
-						"buffer_size": 53,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								53,
-								53
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
