@@ -584,8 +584,13 @@
 	},
 	"file_history":
 	[
-		"/Users/lyman/2015/lymanlai.github.io/logs/201503/05.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201503/09.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201503/08.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201503/10.md",
+		"/Users/lyman/Downloads/iconfont-photo.svg",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201503/06.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201503/07.md",
+		"/Users/lyman/2015/lymanlai.github.io/logs/201503/05.md",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201503/04.md",
 		"/Users/lyman/Downloads/designcode.io/download.txt",
 		"/Users/lyman/2015/lymanlai.github.io/logs/201502.md",
@@ -706,12 +711,7 @@
 		"/Users/lyman/2015/arrking/com.arrking.niobe/node_modules/passport-http/lib/passport-http/index.js",
 		"/Users/lyman/2015/arrking/com.arrking.niobe/node_modules/passport-http/lib/passport-http/strategies/basic.js",
 		"/Users/lyman/2015/arrking/com.arrking.niobe/node_modules/passport-wechat/lib/index.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/auth.js",
-		"/Users/lyman/2015/easy-node-authentication/server.js",
-		"/Users/lyman/2015/easy-node-authentication/config/passport.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/routes/index.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/auth/index.js",
-		"/Users/lyman/2015/arrking/com.arrking.niobe/node_modules/passport-facebook/lib/strategy.js"
+		"/Users/lyman/2015/arrking/com.arrking.niobe/auth.js"
 	],
 	"find":
 	{
