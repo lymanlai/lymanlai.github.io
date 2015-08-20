@@ -2,3 +2,5 @@
 netstat -tap | grep mysql
 #get your ip
 ifconfig eth0 | grep inet | awk '{ print $2 }'
+
+screen -S titleName
